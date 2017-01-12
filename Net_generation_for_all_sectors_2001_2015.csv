@@ -1,0 +1,986 @@
+Net generation for all sectors,,,,,,,,,,,,,,,,,
+"https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vttb&geo=00fvvvvvvvvvo&sec=g&freq=A&start=2001&end=2015&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0",,,,,,,,,,,,,,,,,
+Thu Jan 05 2017 18:44:44 GMT-0700 (MST),,,,,,,,,,,,,,,,,
+Source: U.S. Energy Information Administration,,,,,,,,,,,,,,,,,
+description,units,source key,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+Net generation for all sectors,thousand megawatthours,,,,,,,,,,,,,,,,
+United States,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New England,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Connecticut,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Connecticut : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-CT-99.A,30491,31311,29545,32633,33550,34682,33171,30409,31206,33350,33745,36118,35611,33677,37471
+Connecticut : coal,thousand megawatthours,ELEC.GEN.COW-CT-99.A,3736,3227,4200,4255,3996,4282,3739,4387,2453,2604,526,653,681,825,600
+Connecticut : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-CT-99.A,5173,2338,2063,1740,3156,1279,1311,514,299,409,166,112,306,513,437
+Connecticut : petroleum coke,thousand megawatthours,ELEC.GEN.PC-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Connecticut : natural gas,thousand megawatthours,ELEC.GEN.NG-CT-99.A,4088,8868,5062,8108,8864,10484,9930,8070,9809,11716,15188,16537,15780,14684,17362
+Connecticut : other gases,thousand megawatthours,ELEC.GEN.OOG-CT-99.A,1,9,0,0,2,2,2,0,0,14,--,--,--,--,--
+Connecticut : nuclear,thousand megawatthours,ELEC.GEN.NUC-CT-99.A,15428,14918,16078,16539,15562,16589,16386,15433,16657,16750,15928,17078,17080,15841,17411
+Connecticut : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-CT-99.A,286,335,564,463,478,544,363,556,510,391,567,312,402,434,302
+Connecticut : other renewables,,ELEC.GEN.AOR-CT-99.A,,,,,,,,,,,,,,,
+Connecticut : wind,thousand megawatthours,ELEC.GEN.WND-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Connecticut : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,12,17
+Connecticut : geothermal,thousand megawatthours,ELEC.GEN.GEO-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Connecticut : biomass,thousand megawatthours,ELEC.GEN.BIO-CT-99.A,909,821,786,758,753,763,730,734,759,740,660,667,652,757,787
+Connecticut : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-CT-99.A,0,-10,0,8,-2,0,-15,7,5,9,6,3,-1,7,-4
+Connecticut : other,thousand megawatthours,ELEC.GEN.OTH-CT-99.A,869,804,792,763,740,739,726,710,713,717,705,756,711,605,556
+Connecticut : all solar,,ELEC.GEN.TSN-CT-99.A,,,,,,,,,,,,,,,
+Connecticut : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,126,199
+Connecticut : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,12,17
+Maine,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Maine : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-ME-99.A,19565,22535,18972,19099,18844,16816,16129,17095,16350,17019,15974,15048,14030,13249,11741
+Maine : coal,thousand megawatthours,ELEC.GEN.COW-ME-99.A,528,604,377,359,320,321,376,352,72,87,55,45,63,79,92
+Maine : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-ME-99.A,2102,1229,1920,1312,1621,595,818,533,433,272,178,108,239,305,548
+Maine : petroleum coke,thousand megawatthours,ELEC.GEN.PC-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : natural gas,thousand megawatthours,ELEC.GEN.NG-ME-99.A,10053,13504,9439,9832,8398,7298,6675,7380,7355,8374,6877,6044,4873,4344,2952
+Maine : other gases,thousand megawatthours,ELEC.GEN.OOG-ME-99.A,0,0,0,0,0,0,--,--,--,--,--,--,--,--,--
+Maine : nuclear,thousand megawatthours,ELEC.GEN.NUC-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-ME-99.A,2645,2768,3173,3430,4091,4278,3738,4457,4212,3810,3979,3733,3560,3623,3361
+Maine : other renewables,,ELEC.GEN.AOR-ME-99.A,,,,,,,,,,,,,,,
+Maine : wind,thousand megawatthours,ELEC.GEN.WND-ME-99.A,--,--,--,--,--,--,99,132,299,499,707,887,1048,1097,1296
+Maine : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : geothermal,thousand megawatthours,ELEC.GEN.GEO-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : biomass,thousand megawatthours,ELEC.GEN.BIO-ME-99.A,3826,4044,3586,3598,4068,3968,4108,3926,3640,3653,3788,3778,3846,3394,3153
+Maine : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : other,thousand megawatthours,ELEC.GEN.OTH-ME-99.A,411,386,478,567,345,356,315,315,339,323,390,454,401,405,340
+Maine : all solar,,ELEC.GEN.TSN-ME-99.A,,,,,,,,,,,,,,,
+Maine : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,13,19
+Maine : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Massachusetts,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Massachusetts : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MA-99.A,38478,42028,48385,47500,47515,45598,47076,42505,38967,42805,38055,35578,32885,31119,32086
+Massachusetts : coal,thousand megawatthours,ELEC.GEN.COW-MA-99.A,11051,11503,10896,10526,12034,11138,12024,10629,9028,8306,4059,2137,3959,2795,2253
+Massachusetts : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MA-99.A,8512,6800,7459,7533,7026,2328,3052,2108,897,296,197,150,390,1005,777
+Massachusetts : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Massachusetts : natural gas,thousand megawatthours,ELEC.GEN.NG-MA-99.A,11697,15869,22424,20972,20369,23307,24925,21514,20988,25582,25940,24672,21257,18498,21007
+Massachusetts : other gases,thousand megawatthours,ELEC.GEN.OOG-MA-99.A,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Massachusetts : nuclear,thousand megawatthours,ELEC.GEN.NUC-MA-99.A,5144,5769,4978,5939,5475,5830,5120,5869,5396,5918,5085,5860,4331,5769,4995
+Massachusetts : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MA-99.A,703,875,1075,998,1042,1513,797,1156,1201,996,1149,912,992,902,827
+Massachusetts : other renewables,,ELEC.GEN.AOR-MA-99.A,,,,,,,,,,,,,,,
+Massachusetts : wind,thousand megawatthours,ELEC.GEN.WND-MA-99.A,--,0,--,--,--,--,--,4,6,22,61,90,205,225,215
+Massachusetts : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MA-99.A,--,--,--,--,--,--,--,0,0,1,5,30,106,306,451
+Massachusetts : geothermal,thousand megawatthours,ELEC.GEN.GEO-MA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Massachusetts : biomass,thousand megawatthours,ELEC.GEN.BIO-MA-99.A,1313,1272,1253,1230,1258,1279,1240,1252,1223,1251,1140,1158,1137,1199,1167
+Massachusetts : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MA-99.A,-711,-843,-511,-498,-462,-579,-831,-798,-534,-337,-440,-308,-368,-458,-474
+Massachusetts : other,thousand megawatthours,ELEC.GEN.OTH-MA-99.A,771,783,810,801,772,782,748,773,761,771,860,877,876,878,868
+Massachusetts : all solar,,ELEC.GEN.TSN-MA-99.A,,,,,,,,,,,,,,,
+Massachusetts : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,625,862
+Massachusetts : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MA-99.A,--,--,--,--,--,--,--,0,0,1,5,30,106,306,451
+New Hampshire,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New Hampshire : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NH-99.A,15075,15953,21597,23876,24470,22064,23277,22877,20164,22196,20066,19222,19779,19538,20016
+New Hampshire : coal,thousand megawatthours,ELEC.GEN.COW-NH-99.A,3706,3722,3923,4076,4073,3885,3927,3451,2886,3083,2208,1268,1464,1311,937
+New Hampshire : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NH-99.A,482,650,2045,1960,1357,439,385,136,183,72,78,22,105,287,176
+New Hampshire : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Hampshire : natural gas,thousand megawatthours,ELEC.GEN.NG-NH-99.A,119,220,4165,5400,6785,6007,5754,7073,5342,5365,6658,7050,4100,4388,6052
+New Hampshire : other gases,thousand megawatthours,ELEC.GEN.OOG-NH-99.A,--,--,--,--,0,--,--,--,--,--,--,--,--,--,--
+New Hampshire : nuclear,thousand megawatthours,ELEC.GEN.NUC-NH-99.A,8693,9295,9276,10178,9456,9398,10764,9350,8817,10910,8363,8189,10927,10168,9484
+New Hampshire : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NH-99.A,991,1141,1331,1316,1799,1529,1265,1633,1680,1478,1605,1247,1427,1381,1270
+New Hampshire : other renewables,,ELEC.GEN.AOR-NH-99.A,,,,,,,,,,,,,,,
+New Hampshire : wind,thousand megawatthours,ELEC.GEN.WND-NH-99.A,--,--,--,--,--,--,--,10,62,76,66,209,389,412,423
+New Hampshire : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Hampshire : geothermal,thousand megawatthours,ELEC.GEN.GEO-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Hampshire : biomass,thousand megawatthours,ELEC.GEN.BIO-NH-99.A,1026,865,796,883,942,746,1123,1165,1135,1157,1025,1173,1306,1541,1624
+New Hampshire : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Hampshire : other,thousand megawatthours,ELEC.GEN.OTH-NH-99.A,59,60,60,63,58,59,59,58,58,57,64,66,61,50,50
+New Hampshire : all solar,,ELEC.GEN.TSN-NH-99.A,,,,,,,,,,,,,,,
+New Hampshire : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,14,24
+New Hampshire : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Rhode Island : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-RI-99.A,7502,7057,5621,4939,6053,5968,7050,7387,7697,7739,8722,8309,6247,6282,6939
+Rhode Island : coal,thousand megawatthours,ELEC.GEN.COW-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,0,0
+Rhode Island : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-RI-99.A,70,58,58,49,57,33,34,26,17,12,14,18,51,88,114
+Rhode Island : petroleum coke,thousand megawatthours,ELEC.GEN.PC-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : natural gas,thousand megawatthours,ELEC.GEN.NG-RI-99.A,7325,6310,5455,4784,5989,5780,6857,7198,7530,7583,8571,8185,6139,5963,6586
+Rhode Island : other gases,thousand megawatthours,ELEC.GEN.OOG-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : nuclear,thousand megawatthours,ELEC.GEN.NUC-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-RI-99.A,3,4,6,5,7,6,4,5,5,4,7,4,4,4,3
+Rhode Island : other renewables,,ELEC.GEN.AOR-RI-99.A,,,,,,,,,,,,,,,
+Rhode Island : wind,thousand megawatthours,ELEC.GEN.WND-RI-99.A,--,--,--,--,--,--,--,--,--,3,3,1,3,10,10
+Rhode Island : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,2,10,14
+Rhode Island : geothermal,thousand megawatthours,ELEC.GEN.GEO-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : biomass,thousand megawatthours,ELEC.GEN.BIO-RI-99.A,104,98,102,102,0,149,155,158,145,137,127,101,48,207,211
+Rhode Island : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : other,thousand megawatthours,ELEC.GEN.OTH-RI-99.A,--,587,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : all solar,,ELEC.GEN.TSN-RI-99.A,,,,,,,,,,,,,,,
+Rhode Island : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,11,13
+Rhode Island : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,2,10,14
+Vermont,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Vermont : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-VT-99.A,5481,5456,6028,5470,5717,7084,5824,6820,7282,6620,6776,6612,6885,7031,1982
+Vermont : coal,thousand megawatthours,ELEC.GEN.COW-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-VT-99.A,32,9,23,18,10,7,8,4,2,5,8,3,5,5,3
+Vermont : petroleum coke,thousand megawatthours,ELEC.GEN.PC-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : natural gas,thousand megawatthours,ELEC.GEN.NG-VT-99.A,11,3,2,3,2,2,2,3,4,4,3,3,3,2,1
+Vermont : other gases,thousand megawatthours,ELEC.GEN.OOG-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : nuclear,thousand megawatthours,ELEC.GEN.NUC-VT-99.A,4171,3963,4444,3858,4072,5107,4704,4895,5361,4782,4907,4989,4846,5061,--
+Vermont : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-VT-99.A,884,1115,1154,1187,1211,1519,647,1493,1486,1347,1425,1151,1286,1175,1139
+Vermont : other renewables,,ELEC.GEN.AOR-VT-99.A,,,,,,,,,,,,,,,
+Vermont : wind,thousand megawatthours,ELEC.GEN.WND-VT-99.A,12,10,11,11,11,11,11,10,12,14,33,107,236,311,325
+Vermont : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-VT-99.A,--,--,--,--,--,--,--,--,--,--,2,5,17,24,48
+Vermont : geothermal,thousand megawatthours,ELEC.GEN.GEO-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : biomass,thousand megawatthours,ELEC.GEN.BIO-VT-99.A,370,356,394,393,410,439,453,415,417,468,398,353,491,453,465
+Vermont : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : other,thousand megawatthours,ELEC.GEN.OTH-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : all solar,,ELEC.GEN.TSN-VT-99.A,,,,,,,,,,,,,,,
+Vermont : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,33,54
+Vermont : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-VT-99.A,--,--,--,--,--,--,--,--,--,--,2,5,17,24,48
+Middle Atlantic,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New Jersey,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New Jersey : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NJ-99.A,59421,61569,57399,55882,60550,60700,62671,63675,61811,65682,64694,65263,64751,68051,74609
+New Jersey : coal,thousand megawatthours,ELEC.GEN.COW-NJ-99.A,9319,9605,9790,10322,11625,10862,10211,9028,5100,6418,4155,1897,2022,2519,1759
+New Jersey : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NJ-99.A,1297,731,1542,1425,940,270,453,325,278,235,107,30,107,467,304
+New Jersey : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NJ-99.A,--,--,--,--,--,--,--,--,--,--,58,40,55,NM,71
+New Jersey : natural gas,thousand megawatthours,ELEC.GEN.NG-NJ-99.A,16708,19069,14776,15962,15366,15668,18752,20752,20625,24902,25201,28285,27077,31410,36974
+New Jersey : other gases,thousand megawatthours,ELEC.GEN.OOG-NJ-99.A,449,90,255,39,65,110,161,159,170,106,139,142,223,162,221
+New Jersey : nuclear,thousand megawatthours,ELEC.GEN.NUC-NJ-99.A,30469,30866,29709,27082,31392,32568,32010,32195,34328,32771,33606,33110,33380,31507,33262
+New Jersey : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NJ-99.A,18,12,39,38,31,35,21,26,32,18,24,11,18,17,10
+New Jersey : other renewables,,ELEC.GEN.AOR-NJ-99.A,,,,,,,,,,,,,,,
+New Jersey : wind,thousand megawatthours,ELEC.GEN.WND-NJ-99.A,--,--,--,--,--,16,20,21,21,13,11,12,11,23,22
+New Jersey : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NJ-99.A,--,--,--,--,--,--,--,3,11,21,69,304,437,514,628
+New Jersey : geothermal,thousand megawatthours,ELEC.GEN.GEO-NJ-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Jersey : biomass,thousand megawatthours,ELEC.GEN.BIO-NJ-99.A,844,847,907,806,875,901,823,882,928,816,876,965,999,998,946
+New Jersey : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NJ-99.A,-142,-146,-120,-287,-283,-299,-269,-275,-202,-194,-197,-166,-202,-237,-170
+New Jersey : other,thousand megawatthours,ELEC.GEN.OTH-NJ-99.A,459,495,502,496,538,569,489,559,520,575,644,633,625,640,582
+New Jersey : all solar,,ELEC.GEN.TSN-NJ-99.A,,,,,,,,,,,,,,,
+New Jersey : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NJ-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,1373,1435
+New Jersey : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NJ-99.A,--,--,--,--,--,--,--,3,11,21,69,304,437,514,628
+New York,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New York : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NY-99.A,143915,139592,137643,137965,146887,142265,145879,140322,133151,136962,137480,135768,136117,137122,138628
+New York : coal,thousand megawatthours,ELEC.GEN.COW-NY-99.A,23432,23239,23581,22853,20598,20968,21406,19154,12759,13583,9426,4551,4697,4592,2380
+New York : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NY-99.A,16495,11436,19202,20987,22759,6324,7942,3588,2489,1490,926,580,1007,2136,1892
+New York : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NY-99.A,17,98,90,218,1254,454,253,158,159,515,263,0,0,0,0
+New York : natural gas,thousand megawatthours,ELEC.GEN.NG-NY-99.A,38697,38451,28156,27294,31873,42134,45634,43856,41780,48916,50805,59462,54354,54380,56923
+New York : other gases,thousand megawatthours,ELEC.GEN.OOG-NY-99.A,115,--,--,--,--,--,--,--,--,--,--,--,--,0,0
+New York : nuclear,thousand megawatthours,ELEC.GEN.NUC-NY-99.A,40395,39617,40679,40640,42443,42224,42453,43209,43485,41870,42695,40775,44756,43039,44603
+New York : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NY-99.A,23084,25048,24269,23990,25783,27345,25253,26723,27615,25472,27997,24652,24973,26087,26015
+New York : other renewables,,ELEC.GEN.AOR-NY-99.A,,,,,,,,,,,,,,,
+New York : wind,thousand megawatthours,ELEC.GEN.WND-NY-99.A,21,82,41,116,103,655,833,1251,2266,2596,2828,2992,3539,3968,3977
+New York : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NY-99.A,--,--,--,--,--,--,--,--,--,--,6,53,67,71,101
+New York : geothermal,thousand megawatthours,ELEC.GEN.GEO-NY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New York : biomass,thousand megawatthours,ELEC.GEN.BIO-NY-99.A,1781,1726,1694,1795,1885,1941,1942,2068,2201,2218,2061,2148,2282,2408,2241
+New York : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NY-99.A,-931,-921,-912,-813,-781,-756,-768,-672,-480,-529,-433,-413,-443,-491,-423
+New York : other,thousand megawatthours,ELEC.GEN.OTH-NY-99.A,809,815,843,884,971,977,932,987,877,832,905,968,884,933,919
+New York : all solar,,ELEC.GEN.TSN-NY-99.A,,,,,,,,,,,,,,,
+New York : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,350,589
+New York : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NY-99.A,--,--,--,--,--,--,--,--,--,--,6,53,67,71,101
+Pennsylvania,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Pennsylvania : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-PA-99.A,196577,204323,206350,214659,218091,218812,226088,222351,219496,229752,227315,223420,226786,221058,214572
+Pennsylvania : coal,thousand megawatthours,ELEC.GEN.COW-PA-99.A,111900,113906,116010,117176,120933,122558,122693,117583,105475,110369,100603,87148,88443,78986,64637
+Pennsylvania : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-PA-99.A,3371,2269,3964,3542,4537,1251,1307,730,734,567,419,248,302,641,571
+Pennsylvania : petroleum coke,thousand megawatthours,ELEC.GEN.PC-PA-99.A,192,464,572,600,403,268,177,208,181,4,23,35,158,162,158
+Pennsylvania : natural gas,thousand megawatthours,ELEC.GEN.NG-PA-99.A,3036,6716,5519,9814,10808,13542,19198,18731,29215,33718,41792,53062,49938,53021,59455
+Pennsylvania : other gases,thousand megawatthours,ELEC.GEN.OOG-PA-99.A,613,569,508,584,540,554,534,610,443,552,616,598,650,491,420
+Pennsylvania : nuclear,thousand megawatthours,ELEC.GEN.NUC-PA-99.A,73731,76089,74361,77459,76289,75298,77376,78658,77328,77828,76147,75174,78714,78715,80517
+Pennsylvania : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-PA-99.A,1650,2211,3346,3155,2232,2844,2236,2549,2683,2332,3217,2242,2525,2641,2604
+Pennsylvania : other renewables,,ELEC.GEN.AOR-PA-99.A,,,,,,,,,,,,,,,
+Pennsylvania : wind,thousand megawatthours,ELEC.GEN.WND-PA-99.A,11,58,112,306,284,361,470,729,1075,1854,1794,2129,3352,3565,3353
+Pennsylvania : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-PA-99.A,--,--,--,--,--,--,--,0,4,8,23,32,63,62,64
+Pennsylvania : geothermal,thousand megawatthours,ELEC.GEN.GEO-PA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Pennsylvania : biomass,thousand megawatthours,ELEC.GEN.BIO-PA-99.A,1885,2005,1986,1969,2045,2112,2076,2074,2274,2383,2281,2298,2339,2453,2404
+Pennsylvania : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-PA-99.A,-615,-658,-739,-686,-711,-698,-723,-354,-731,-708,-494,-443,-539,-579,-509
+Pennsylvania : other,thousand megawatthours,ELEC.GEN.OTH-PA-99.A,803,695,712,740,731,723,744,832,817,845,893,896,841,900,899
+Pennsylvania : all solar,,ELEC.GEN.TSN-PA-99.A,,,,,,,,,,,,,,,
+Pennsylvania : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-PA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,252,261
+Pennsylvania : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-PA-99.A,--,--,--,--,--,--,--,0,4,8,23,32,63,62,64
+East North Central,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Illinois,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Illinois : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-IL-99.A,179249,188054,189055,191958,194120,192427,200261,199475,193864,201352,199500,197565,203005,202144,193952
+Illinois : coal,thousand megawatthours,ELEC.GEN.COW-IL-99.A,79551,86685,87981,94402,92265,91649,95265,96644,89967,93611,90013,80827,87927,87282,73774
+Illinois : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-IL-99.A,1491,223,1121,659,227,119,132,143,113,110,84,71,72,87,56
+Illinois : petroleum coke,thousand megawatthours,ELEC.GEN.PC-IL-99.A,15,0,0,104,101,16,0,0,0,0,--,--,--,0,0
+Illinois : natural gas,thousand megawatthours,ELEC.GEN.NG-IL-99.A,4606,9079,3902,3393,7114,5279,7542,4260,4495,5724,5956,11189,6828,5465,10864
+Illinois : other gases,thousand megawatthours,ELEC.GEN.OOG-IL-99.A,356,233,204,246,199,149,134,54,88,161,319,294,356,338,280
+Illinois : nuclear,thousand megawatthours,ELEC.GEN.NUC-IL-99.A,92358,90860,94733,92047,93263,94154,95729,95152,95474,96190,95823,96401,97131,97858,97282
+Illinois : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-IL-99.A,144,129,139,154,129,173,154,139,136,119,140,111,120,132,124
+Illinois : other renewables,,ELEC.GEN.AOR-IL-99.A,,,,,,,,,,,,,,,
+Illinois : wind,thousand megawatthours,ELEC.GEN.WND-IL-99.A,--,--,18,78,141,255,664,2337,2820,4454,6213,7727,9625,10083,10747
+Illinois : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IL-99.A,--,--,--,--,--,--,--,--,0,14,14,31,52,50,49
+Illinois : geothermal,thousand megawatthours,ELEC.GEN.GEO-IL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Illinois : biomass,thousand megawatthours,ELEC.GEN.BIO-IL-99.A,679,724,801,744,642,594,620,698,710,670,638,615,608,566,527
+Illinois : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-IL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Illinois : other,thousand megawatthours,ELEC.GEN.OTH-IL-99.A,50,122,156,132,40,38,21,49,62,300,299,299,285,282,248
+Illinois : all solar,,ELEC.GEN.TSN-IL-99.A,,,,,,,,,,,,,,,
+Illinois : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-IL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,21,27
+Illinois : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IL-99.A,--,--,--,--,--,--,--,--,0,14,14,31,52,50,49
+Indiana,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Indiana : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-IN-99.A,122570,125608,124888,127770,130372,130490,130638,129510,116670,125181,122131,114696,110403,115395,104019
+Indiana : coal,thousand megawatthours,ELEC.GEN.COW-IN-99.A,116067,117660,117756,120671,122833,123645,122803,122036,108312,112328,104153,92461,92672,97549,78231
+Indiana : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-IN-99.A,324,313,224,171,162,148,170,178,147,155,172,114,139,164,159
+Indiana : petroleum coke,thousand megawatthours,ELEC.GEN.PC-IN-99.A,167,304,231,254,99,0,0,0,10,0,1161,831,1433,1199,1179
+Indiana : natural gas,thousand megawatthours,ELEC.GEN.NG-IN-99.A,2332,3782,3049,2438,3615,2682,4012,3636,3830,6475,10064,14471,9032,9572,16263
+Indiana : other gases,thousand megawatthours,ELEC.GEN.OOG-IN-99.A,2979,3006,2592,3136,2722,2870,2591,2356,1820,2144,2183,2491,2410,2161,2269
+Indiana : nuclear,thousand megawatthours,ELEC.GEN.NUC-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Indiana : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-IN-99.A,571,411,424,444,438,490,450,437,503,454,409,434,387,371,381
+Indiana : other renewables,,ELEC.GEN.AOR-IN-99.A,,,,,,,,,,,,,,,
+Indiana : wind,thousand megawatthours,ELEC.GEN.WND-IN-99.A,--,--,--,--,--,--,--,238,1403,2934,3285,3210,3481,3496,4515
+Indiana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,NM,31,102,156
+Indiana : geothermal,thousand megawatthours,ELEC.GEN.GEO-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Indiana : biomass,thousand megawatthours,ELEC.GEN.BIO-IN-99.A,115,116,119,137,68,220,231,273,303,312,336,336,376,391,446
+Indiana : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Indiana : other,thousand megawatthours,ELEC.GEN.OTH-IN-99.A,16,16,492,519,434,435,381,356,343,380,369,347,442,391,420
+Indiana : all solar,,ELEC.GEN.TSN-IN-99.A,,,,,,,,,,,,,,,
+Indiana : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,9,12
+Indiana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IN-99.A,--,--,--,--,--,--,--,--,--,--,--,NM,31,102,156
+Michigan,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Michigan : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MI-99.A,111846,117889,111347,118487,121620,112557,119310,114990,101203,111551,109170,108158,105418,106817,113008
+Michigan : coal,thousand megawatthours,ELEC.GEN.COW-MI-99.A,68263,66700,67777,68606,70323,67780,70811,69855,66848,65604,58948,53136,56291,52900,52884
+Michigan : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MI-99.A,749,1069,878,742,803,311,457,286,216,190,179,138,130,140,109
+Michigan : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MI-99.A,1,35,186,155,74,91,242,171,183,193,163,187,403,911,718
+Michigan : natural gas,thousand megawatthours,ELEC.GEN.NG-MI-99.A,13174,15853,11375,14548,13764,11410,13141,9602,8420,12249,12982,21748,12341,12523,20045
+Michigan : other gases,thousand megawatthours,ELEC.GEN.OOG-MI-99.A,6,10,2,599,372,412,282,264,203,299,269,315,957,1120,1213
+Michigan : nuclear,thousand megawatthours,ELEC.GEN.NUC-MI-99.A,26711,31087,27954,30562,32872,29066,31517,31484,21851,29625,32889,28020,28921,31246,29334
+Michigan : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MI-99.A,1562,1669,1386,1540,1462,1520,1270,1364,1372,1251,1357,1207,1419,1600,1499
+Michigan : other renewables,,ELEC.GEN.AOR-MI-99.A,,,,,,,,,,,,,,,
+Michigan : wind,thousand megawatthours,ELEC.GEN.WND-MI-99.A,0,0,3,2,2,2,3,141,300,360,456,1132,2800,3868,4797
+Michigan : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,1
+Michigan : geothermal,thousand megawatthours,ELEC.GEN.GEO-MI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Michigan : biomass,thousand megawatthours,ELEC.GEN.BIO-MI-99.A,2361,2220,2495,2557,2492,2440,2414,2450,2323,2472,2506,2654,2715,2806,2485
+Michigan : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MI-99.A,-1127,-1036,-1017,-1113,-1106,-1039,-1129,-916,-857,-1023,-945,-773,-871,-701,-481
+Michigan : other,thousand megawatthours,ELEC.GEN.OTH-MI-99.A,146,281,309,291,562,563,303,286,344,332,363,395,312,404,405
+Michigan : all solar,,ELEC.GEN.TSN-MI-99.A,,,,,,,,,,,,,,,
+Michigan : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,35,38
+Michigan : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,1
+Ohio,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Ohio : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-OH-99.A,142262,147069,146638,148346,156976,155434,155156,153412,136090,143598,135586,129746,137284,134476,121893
+Ohio : coal,thousand megawatthours,ELEC.GEN.COW-OH-99.A,124213,132953,134769,128157,136826,133400,133131,130694,113712,117828,105337,85589,94564,89879,71710
+Ohio : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-OH-99.A,417,389,410,353,360,308,313,290,262,298,313,258,227,307,220
+Ohio : petroleum coke,thousand megawatthours,ELEC.GEN.PC-OH-99.A,--,--,--,1035,1030,1047,835,1147,1049,1144,1075,1023,1159,939,1097
+Ohio : natural gas,thousand megawatthours,ELEC.GEN.NG-OH-99.A,924,1767,1794,1391,2696,2379,3975,2484,4650,7128,12338,22665,21694,23636,28034
+Ohio : other gases,thousand megawatthours,ELEC.GEN.OOG-OH-99.A,302,207,213,302,298,360,289,261,37,254,304,959,953,929,945
+Ohio : nuclear,thousand megawatthours,ELEC.GEN.NUC-OH-99.A,15464,10865,8475,15950,14803,16847,15764,17514,15206,15805,14890,17087,16121,16284,17377
+Ohio : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-OH-99.A,511,488,511,730,516,632,410,386,528,429,384,414,549,478,457
+Ohio : other renewables,,ELEC.GEN.AOR-OH-99.A,,,,,,,,,,,,,,,
+Ohio : wind,thousand megawatthours,ELEC.GEN.WND-OH-99.A,--,--,--,--,13,14,15,15,14,13,198,985,1146,1153,1203
+Ohio : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OH-99.A,--,--,--,--,--,--,--,--,--,13,15,37,46,54,56
+Ohio : geothermal,thousand megawatthours,ELEC.GEN.GEO-OH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Ohio : biomass,thousand megawatthours,ELEC.GEN.BIO-OH-99.A,431,151,441,428,432,444,420,608,619,675,722,717,817,818,799
+Ohio : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-OH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Ohio : other,thousand megawatthours,ELEC.GEN.OTH-OH-99.A,--,249,26,0,2,3,3,11,11,12,10,12,8,-3,-3
+Ohio : all solar,,ELEC.GEN.TSN-OH-99.A,,,,,,,,,,,,,,,
+Ohio : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-OH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,83,95
+Ohio : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OH-99.A,--,--,--,--,--,--,--,--,--,13,15,37,46,54,56
+Wisconsin,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Wisconsin : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-WI-99.A,58763,58431,60122,60445,61825,61640,63391,63480,59959,64314,63289,63751,65963,61065,66360
+Wisconsin : coal,thousand megawatthours,ELEC.GEN.COW-WI-99.A,41253,39807,41717,42148,41729,40116,40028,41706,37280,40169,39938,32758,40645,37449,37181
+Wisconsin : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-WI-99.A,159,109,143,161,164,136,160,96,41,35,36,39,29,52,27
+Wisconsin : petroleum coke,thousand megawatthours,ELEC.GEN.PC-WI-99.A,289,313,330,634,583,741,854,835,672,684,547,279,274,267,181
+Wisconsin : natural gas,thousand megawatthours,ELEC.GEN.NG-WI-99.A,2234,2076,2478,2405,6387,5358,6489,5244,5484,5497,6243,11542,8102,8054,13399
+Wisconsin : other gases,thousand megawatthours,ELEC.GEN.OOG-WI-99.A,--,--,--,--,--,--,--,--,--,0,--,--,--,--,--
+Wisconsin : nuclear,thousand megawatthours,ELEC.GEN.NUC-WI-99.A,11507,12449,12215,11888,9921,12234,12910,12155,12683,13281,11560,14300,11675,9447,10008
+Wisconsin : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-WI-99.A,2056,2515,1843,1981,1740,1679,1516,1616,1394,2112,2147,1530,1979,2472,2341
+Wisconsin : other renewables,,ELEC.GEN.AOR-WI-99.A,,,,,,,,,,,,,,,
+Wisconsin : wind,thousand megawatthours,ELEC.GEN.WND-WI-99.A,72,46,98,104,93,101,109,487,1052,1088,1188,1558,1558,1618,1589
+Wisconsin : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,1,1
+Wisconsin : geothermal,thousand megawatthours,ELEC.GEN.GEO-WI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wisconsin : biomass,thousand megawatthours,ELEC.GEN.BIO-WI-99.A,1030,969,1128,1010,1089,1164,1220,1267,1288,1385,1577,1666,1634,1643,1571
+Wisconsin : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-WI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wisconsin : other,thousand megawatthours,ELEC.GEN.OTH-WI-99.A,163,146,170,114,119,110,104,74,65,63,54,80,66,62,63
+Wisconsin : all solar,,ELEC.GEN.TSN-WI-99.A,,,,,,,,,,,,,,,
+Wisconsin : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-WI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,23,27
+Wisconsin : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,1,1
+West North Central,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Iowa,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Iowa : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-IA-99.A,40659,42528,42116,43248,44156,45483,49789,53087,51860,57509,56372,56675,56671,56853,56659
+Iowa : coal,thousand megawatthours,ELEC.GEN.COW-IA-99.A,34665,35372,35820,35272,34252,34405,37986,40410,37351,41283,38229,35331,33302,33733,29811
+Iowa : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-IA-99.A,99,58,93,75,143,107,179,80,55,80,69,89,69,59,64
+Iowa : petroleum coke,thousand megawatthours,ELEC.GEN.PC-IA-99.A,4,6,8,33,7,102,133,81,30,75,72,18,72,85,46
+Iowa : natural gas,thousand megawatthours,ELEC.GEN.NG-IA-99.A,593,555,313,825,2481,2400,3091,2163,1184,1312,991,1941,1430,1373,2398
+Iowa : other gases,thousand megawatthours,ELEC.GEN.OOG-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Iowa : nuclear,thousand megawatthours,ELEC.GEN.NUC-IA-99.A,3853,4574,3988,4929,4538,5095,4519,5282,4679,4451,5215,4347,5321,4152,5243
+Iowa : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-IA-99.A,845,946,789,946,960,909,962,819,971,948,925,766,749,879,960
+Iowa : other renewables,,ELEC.GEN.AOR-IA-99.A,,,,,,,,,,,,,,,
+Iowa : wind,thousand megawatthours,ELEC.GEN.WND-IA-99.A,488,919,982,1050,1647,2318,2757,4084,7421,9170,10709,14032,15568,16307,17873
+Iowa : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Iowa : geothermal,thousand megawatthours,ELEC.GEN.GEO-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Iowa : biomass,thousand megawatthours,ELEC.GEN.BIO-IA-99.A,104,98,114,106,117,137,151,167,168,190,161,151,159,266,258
+Iowa : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Iowa : other,thousand megawatthours,ELEC.GEN.OTH-IA-99.A,8,0,10,12,12,10,12,0,0,--,--,--,0,0,5
+Iowa : all solar,,ELEC.GEN.TSN-IA-99.A,,,,,,,,,,,,,,,
+Iowa : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,24,41
+Iowa : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-IA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kansas,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Kansas : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-KS-99.A,44749,47188,46568,46783,45863,45524,50122,46630,46677,47924,45360,44425,48473,49728,45527
+Kansas : coal,thousand megawatthours,ELEC.GEN.COW-KS-99.A,31768,35369,35110,34593,34481,33281,36250,34003,32243,32505,31656,27983,29767,28752,24593
+Kansas : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-KS-99.A,617,509,964,854,986,51,43,43,39,45,38,35,51,45,49
+Kansas : petroleum coke,thousand megawatthours,ELEC.GEN.PC-KS-99.A,--,--,--,--,--,--,164,87,81,58,19,0,0,0,0
+Kansas : natural gas,thousand megawatthours,ELEC.GEN.NG-KS-99.A,1951,1789,1226,832,1137,1839,2133,2230,2669,2287,2535,2860,1980,1453,1174
+Kansas : other gases,thousand megawatthours,ELEC.GEN.OOG-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kansas : nuclear,thousand megawatthours,ELEC.GEN.NUC-KS-99.A,10347,9042,8890,10133,8821,9350,10369,8497,8769,9556,7319,8285,7168,8558,8630
+Kansas : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-KS-99.A,26,13,12,13,11,10,11,11,13,13,15,10,15,16,19
+Kansas : other renewables,,ELEC.GEN.AOR-KS-99.A,,,,,,,,,,,,,,,
+Kansas : wind,thousand megawatthours,ELEC.GEN.WND-KS-99.A,40,467,366,359,426,992,1153,1759,2863,3405,3720,5195,9433,10845,10999
+Kansas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,2
+Kansas : geothermal,thousand megawatthours,ELEC.GEN.GEO-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kansas : biomass,thousand megawatthours,ELEC.GEN.BIO-KS-99.A,--,--,--,--,--,--,--,--,0,54,59,57,58,59,62
+Kansas : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kansas : other,thousand megawatthours,ELEC.GEN.OTH-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,0,0
+Kansas : all solar,,ELEC.GEN.TSN-KS-99.A,,,,,,,,,,,,,,,
+Kansas : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,3,5
+Kansas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-KS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,2
+Minnesota,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Minnesota : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MN-99.A,48523,52778,55051,52364,53019,53238,54478,54763,52492,53670,53120,52754,51297,56998,56980
+Minnesota : coal,thousand megawatthours,ELEC.GEN.COW-MN-99.A,31819,33920,35656,34000,32950,33070,32190,31755,29327,28083,28259,22723,23518,27957,24697
+Minnesota : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MN-99.A,121,51,135,114,164,86,244,92,66,31,38,30,27,63,28
+Minnesota : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MN-99.A,504,602,738,669,612,408,161,140,-1,0,0,0,0,0,--
+Minnesota : natural gas,thousand megawatthours,ELEC.GEN.NG-MN-99.A,1200,1592,1844,1458,2707,2561,3842,2866,2846,4341,3351,7088,6301,3870,7389
+Minnesota : other gases,thousand megawatthours,ELEC.GEN.OOG-MN-99.A,--,--,--,--,--,--,26,27,24,0,0,--,--,--,--
+Minnesota : nuclear,thousand megawatthours,ELEC.GEN.NUC-MN-99.A,11789,13685,13414,13296,12835,13183,13103,12997,12393,13478,11959,11944,10708,12707,12039
+Minnesota : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MN-99.A,832,809,815,738,775,572,654,727,809,840,746,561,511,548,849
+Minnesota : other renewables,,ELEC.GEN.AOR-MN-99.A,,,,,,,,,,,,,,,
+Minnesota : wind,thousand megawatthours,ELEC.GEN.WND-MN-99.A,897,906,978,812,1582,2055,2639,4355,5053,4792,6726,8176,8259,9691,9779
+Minnesota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MN-99.A,--,--,--,--,--,--,--,--,--,--,--,0,3,3,3
+Minnesota : geothermal,thousand megawatthours,ELEC.GEN.GEO-MN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Minnesota : biomass,thousand megawatthours,ELEC.GEN.BIO-MN-99.A,1080,881,1143,985,1070,1004,1294,1496,1684,1848,1680,1838,1610,1763,1806
+Minnesota : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Minnesota : other,thousand megawatthours,ELEC.GEN.OTH-MN-99.A,282,332,329,292,324,298,325,309,290,258,362,394,361,397,390
+Minnesota : all solar,,ELEC.GEN.TSN-MN-99.A,,,,,,,,,,,,,,,
+Minnesota : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,19,26
+Minnesota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MN-99.A,--,--,--,--,--,--,--,--,--,--,--,0,3,3,3
+Missouri,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Missouri : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MO-99.A,79545,81162,87225,87633,90828,91686,91153,91029,88354,92313,94876,91804,91627,87834,83640
+Missouri : coal,thousand megawatthours,ELEC.GEN.COW-MO-99.A,65749,67435,74212,75024,77437,77450,75084,73532,71611,75047,78316,72775,76105,72409,65326
+Missouri : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MO-99.A,126,97,107,66,103,61,61,56,57,118,80,78,65,107,99
+Missouri : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MO-99.A,512,433,50,130,66,0,0,1,30,8,0,0,0,0,--
+Missouri : natural gas,thousand megawatthours,ELEC.GEN.NG-MO-99.A,3874,3544,2624,2865,3866,3729,4979,5196,3416,4690,4548,6167,4400,4044,4596
+Missouri : other gases,thousand megawatthours,ELEC.GEN.OOG-MO-99.A,--,--,2,2,2,5,3,3,7,7,--,--,--,--,--
+Missouri : nuclear,thousand megawatthours,ELEC.GEN.NUC-MO-99.A,8384,8390,9700,7831,8031,10117,9372,9379,10247,8996,9371,10718,8367,9276,10440
+Missouri : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MO-99.A,1104,1357,652,1480,1159,199,1204,2047,1817,1539,1185,714,1136,697,1595
+Missouri : other renewables,,ELEC.GEN.AOR-MO-99.A,,,,,,,,,,,,,,,
+Missouri : wind,thousand megawatthours,ELEC.GEN.WND-MO-99.A,--,--,--,--,--,--,--,203,499,925,1178,1245,1167,1131,1033
+Missouri : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,9,17
+Missouri : geothermal,thousand megawatthours,ELEC.GEN.GEO-MO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Missouri : biomass,thousand megawatthours,ELEC.GEN.BIO-MO-99.A,9,9,8,10,9,24,29,43,75,62,62,54,74,116,129
+Missouri : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MO-99.A,-266,-159,-254,115,86,48,383,545,567,888,114,33,296,19,348
+Missouri : other,thousand megawatthours,ELEC.GEN.OTH-MO-99.A,54,58,124,110,70,54,37,24,27,32,21,20,16,26,58
+Missouri : all solar,,ELEC.GEN.TSN-MO-99.A,,,,,,,,,,,,,,,
+Missouri : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,113,145
+Missouri : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,9,17
+Nebraska,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Nebraska : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NE-99.A,30485,31618,30456,32009,31465,31670,32443,32374,34002,36630,36095,34217,37105,39431,39883
+Nebraska : coal,thousand megawatthours,ELEC.GEN.COW-NE-99.A,20239,19944,20954,20457,20818,20683,19630,21480,23350,23363,25965,25019,26767,24922,24185
+Nebraska : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NE-99.A,28,21,49,22,31,19,36,35,23,31,37,23,43,43,6
+Nebraska : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nebraska : natural gas,thousand megawatthours,ELEC.GEN.NG-NE-99.A,349,413,381,297,803,759,1110,758,312,375,426,770,437,406,431
+Nebraska : other gases,thousand megawatthours,ELEC.GEN.OOG-NE-99.A,--,0,0,0,0,0,0,0,--,--,--,--,--,--,--
+Nebraska : nuclear,thousand megawatthours,ELEC.GEN.NUC-NE-99.A,8726,10122,7997,10241,8802,9003,11042,9479,9435,11054,6933,5802,6865,10102,10325
+Nebraska : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NE-99.A,1124,1097,980,913,871,893,347,346,434,1314,1617,1257,1124,1158,1685
+Nebraska : other renewables,,ELEC.GEN.AOR-NE-99.A,,,,,,,,,,,,,,,
+Nebraska : wind,thousand megawatthours,ELEC.GEN.WND-NE-99.A,3,8,38,38,97,261,217,214,383,422,1051,1284,1802,2737,3180
+Nebraska : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nebraska : geothermal,thousand megawatthours,ELEC.GEN.GEO-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nebraska : biomass,thousand megawatthours,ELEC.GEN.BIO-NE-99.A,17,13,56,40,43,52,61,61,66,72,65,63,67,64,71
+Nebraska : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nebraska : other,thousand megawatthours,ELEC.GEN.OTH-NE-99.A,0,0,0,0,--,--,--,--,--,--,--,--,0,0,0
+Nebraska : all solar,,ELEC.GEN.TSN-NE-99.A,,,,,,,,,,,,,,,
+Nebraska : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,1,1
+Nebraska : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota,,ELEC.GEN..A,,,,,,,,,,,,,,,
+North Dakota : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-ND-99.A,30332,31306,31322,29936,31933,30881,31224,32735,34196,34740,35080,36125,35022,36463,37157
+North Dakota : coal,thousand megawatthours,ELEC.GEN.COW-ND-99.A,28877,29612,29427,28064,30259,28879,29164,29672,29607,28462,27109,28214,27478,27394,27734
+North Dakota : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-ND-99.A,48,39,52,38,34,42,51,49,45,38,42,33,33,26,26
+North Dakota : petroleum coke,thousand megawatthours,ELEC.GEN.PC-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota : natural gas,thousand megawatthours,ELEC.GEN.NG-ND-99.A,3,8,9,9,8,7,17,0,17,16,20,22,54,234,711
+North Dakota : other gases,thousand megawatthours,ELEC.GEN.OOG-ND-99.A,65,55,50,58,59,59,53,0,44,36,39,35,42,40,39
+North Dakota : nuclear,thousand megawatthours,ELEC.GEN.NUC-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-ND-99.A,1332,1593,1724,1546,1342,1521,1305,1253,1475,2042,2580,2477,1852,2531,2094
+North Dakota : other renewables,,ELEC.GEN.AOR-ND-99.A,,,,,,,,,,,,,,,
+North Dakota : wind,thousand megawatthours,ELEC.GEN.WND-ND-99.A,--,--,59,215,220,369,621,1693,2998,4096,5236,5275,5519,6202,6506
+North Dakota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota : geothermal,thousand megawatthours,ELEC.GEN.GEO-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota : biomass,thousand megawatthours,ELEC.GEN.BIO-ND-99.A,8,0,1,6,10,4,14,13,12,12,10,6,5,3,4
+North Dakota : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Dakota : other,thousand megawatthours,ELEC.GEN.OTH-ND-99.A,--,--,--,0,--,--,1,54,0,37,44,64,38,31,42
+North Dakota : all solar,,ELEC.GEN.TSN-ND-99.A,,,,,,,,,,,,,,,
+North Dakota : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,0,0
+North Dakota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota,,ELEC.GEN..A,,,,,,,,,,,,,,,
+South Dakota : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-SD-99.A,7401,7722,7944,7510,6521,7132,6137,7083,8197,10050,11999,11473,10109,10995,9633
+South Dakota : coal,thousand megawatthours,ELEC.GEN.COW-SD-99.A,3612,3272,3431,3620,2996,3316,2655,3660,3217,3298,2586,2919,2849,2689,1495
+South Dakota : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-SD-99.A,52,5,16,23,21,5,63,23,8,6,8,6,7,7,17
+South Dakota : petroleum coke,thousand megawatthours,ELEC.GEN.PC-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : natural gas,thousand megawatthours,ELEC.GEN.NG-SD-99.A,305,86,176,112,271,266,351,229,80,135,129,214,502,465,773
+South Dakota : other gases,thousand megawatthours,ELEC.GEN.OOG-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : nuclear,thousand megawatthours,ELEC.GEN.NUC-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-SD-99.A,3432,4354,4276,3598,3075,3397,2917,2993,4432,5239,6608,5981,4063,5498,4850
+South Dakota : other renewables,,ELEC.GEN.AOR-SD-99.A,,,,,,,,,,,,,,,
+South Dakota : wind,thousand megawatthours,ELEC.GEN.WND-SD-99.A,1,6,44,158,158,149,150,145,421,1372,2668,2354,2688,2336,2498
+South Dakota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : geothermal,thousand megawatthours,ELEC.GEN.GEO-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : biomass,thousand megawatthours,ELEC.GEN.BIO-SD-99.A,--,--,--,--,--,--,--,2,6,0,0,0,0,0,0
+South Dakota : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : other,thousand megawatthours,ELEC.GEN.OTH-SD-99.A,--,--,--,0,0,0,0,31,31,0,0,0,0,0,0
+South Dakota : all solar,,ELEC.GEN.TSN-SD-99.A,,,,,,,,,,,,,,,
+South Dakota : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,0,1
+South Dakota : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Atlantic,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Delaware,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Delaware : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-DE-99.A,6808,6002,7392,7856,8137,7182,8534,7524,4842,5628,6590,8634,7761,7704,7810
+Delaware : coal,thousand megawatthours,ELEC.GEN.COW-DE-99.A,3369,3464,4026,4744,4833,4969,5622,5267,2848,2568,1455,1423,1545,865,599
+Delaware : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-DE-99.A,1682,898,1649,1104,1220,132,241,219,258,56,38,22,23,183,154
+Delaware : petroleum coke,thousand megawatthours,ELEC.GEN.PC-DE-99.A,24,52,68,0,0,0,0,0,0,0,0,0,0,0,0
+Delaware : natural gas,thousand megawatthours,ELEC.GEN.NG-DE-99.A,1575,1443,1464,1718,1591,1171,1902,1387,1376,2865,4731,6815,5931,6297,6689
+Delaware : other gases,thousand megawatthours,ELEC.GEN.OOG-DE-99.A,157,146,185,290,493,910,721,476,227,0,208,244,155,226,238
+Delaware : nuclear,thousand megawatthours,ELEC.GEN.NUC-DE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Delaware : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-DE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Delaware : other renewables,,ELEC.GEN.AOR-DE-99.A,,,,,,,,,,,,,,,
+Delaware : wind,thousand megawatthours,ELEC.GEN.WND-DE-99.A,--,--,--,--,--,--,--,--,--,3,5,4,4,5,5
+Delaware : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-DE-99.A,--,--,--,--,--,--,--,--,--,--,8,23,45,50,49
+Delaware : geothermal,thousand megawatthours,ELEC.GEN.GEO-DE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Delaware : biomass,thousand megawatthours,ELEC.GEN.BIO-DE-99.A,--,--,--,--,--,0,48,163,126,136,145,105,57,76,76
+Delaware : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-DE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Delaware : other,thousand megawatthours,ELEC.GEN.OTH-DE-99.A,--,--,--,--,--,--,--,11,6,0,0,--,--,--,--
+Delaware : all solar,,ELEC.GEN.TSN-DE-99.A,,,,,,,,,,,,,,,
+Delaware : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-DE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,71,79
+Delaware : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-DE-99.A,--,--,--,--,--,--,--,--,--,--,8,23,45,50,49
+District Of Columbia,,ELEC.GEN..A,,,,,,,,,,,,,,,
+District Of Columbia : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-DC-99.A,123,262,74,36,226,81,75,72,35,200,201,72,66,68,54
+District Of Columbia : coal,thousand megawatthours,ELEC.GEN.COW-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-DC-99.A,123,262,74,36,226,81,75,72,35,200,130,9,0,0,0
+District Of Columbia : petroleum coke,thousand megawatthours,ELEC.GEN.PC-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : natural gas,thousand megawatthours,ELEC.GEN.NG-DC-99.A,--,--,--,--,--,--,--,--,--,--,71,62,66,68,23
+District Of Columbia : other gases,thousand megawatthours,ELEC.GEN.OOG-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : nuclear,thousand megawatthours,ELEC.GEN.NUC-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : other renewables,,ELEC.GEN.AOR-DC-99.A,,,,,,,,,,,,,,,
+District Of Columbia : wind,thousand megawatthours,ELEC.GEN.WND-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : geothermal,thousand megawatthours,ELEC.GEN.GEO-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : biomass,thousand megawatthours,ELEC.GEN.BIO-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,31
+District Of Columbia : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : other,thousand megawatthours,ELEC.GEN.OTH-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : all solar,,ELEC.GEN.TSN-DC-99.A,,,,,,,,,,,,,,,
+District Of Columbia : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,31,32
+District Of Columbia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Florida,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Florida : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-FL-99.A,190945,203353,212610,218118,220256,223752,225416,219637,217952,229096,221895,221096,222399,230016,237413
+Florida : coal,thousand megawatthours,ELEC.GEN.COW-FL-99.A,68228,65926,67675,64862,62515,65423,67908,64823,54003,59897,51991,44286,46343,52054,42904
+Florida : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-FL-99.A,37676,28875,31267,30672,29158,15875,15633,8676,6314,5922,1383,720,498,527,582
+Florida : petroleum coke,thousand megawatthours,ELEC.GEN.PC-FL-99.A,2904,4807,5938,6583,8043,7029,4570,3295,2907,3200,1898,646,2063,1351,1568
+Florida : natural gas,thousand megawatthours,ELEC.GEN.NG-FL-99.A,43570,63164,68293,76577,83595,96186,100307,103363,118322,128634,136364,149700,138966,140034,155824
+Florida : other gases,thousand megawatthours,ELEC.GEN.OOG-FL-99.A,1,13,11,15,13,17,15,10,7,8,6,6,5,7,5
+Florida : nuclear,thousand megawatthours,ELEC.GEN.NUC-FL-99.A,31583,33704,30979,31216,28759,31426,29289,32133,29118,23936,22015,17870,26526,27868,28122
+Florida : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-FL-99.A,148,184,263,265,266,203,154,206,208,177,182,151,254,211,244
+Florida : other renewables,,ELEC.GEN.AOR-FL-99.A,,,,,,,,,,,,,,,
+Florida : wind,thousand megawatthours,ELEC.GEN.WND-FL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Florida : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-FL-99.A,--,--,--,--,--,--,--,--,9,80,126,194,210,242,224
+Florida : geothermal,thousand megawatthours,ELEC.GEN.GEO-FL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Florida : biomass,thousand megawatthours,ELEC.GEN.BIO-FL-99.A,3790,3740,4474,4502,4327,4331,4303,4303,4331,4406,4544,4330,4449,4831,4919
+Florida : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-FL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Florida : other,thousand megawatthours,ELEC.GEN.OTH-FL-99.A,3046,2940,3711,3427,3579,3261,3236,2827,2733,2834,3385,3194,3086,2891,3021
+Florida : all solar,,ELEC.GEN.TSN-FL-99.A,,,,,,,,,,,,,,,
+Florida : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-FL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,119,156
+Florida : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-FL-99.A,--,--,--,--,--,--,--,--,9,80,126,194,210,242,224
+Georgia,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Georgia : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-GA-99.A,118317,126512,124077,126813,136668,138010,145155,136173,128698,137577,124749,122306,120954,125837,128818
+Georgia : coal,thousand megawatthours,ELEC.GEN.COW-GA-99.A,74561,78828,78638,79943,87182,86504,90298,85491,69478,73298,60159,40715,40233,45295,37131
+Georgia : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-GA-99.A,761,671,680,402,472,252,232,272,168,155,137,73,68,180,147
+Georgia : petroleum coke,thousand megawatthours,ELEC.GEN.PC-GA-99.A,410,533,514,544,561,583,556,470,482,485,415,305,207,198,113
+Georgia : natural gas,thousand megawatthours,ELEC.GEN.NG-GA-99.A,3866,6889,4277,6130,9771,12961,16079,13428,20506,23884,26544,42539,40330,40961,50469
+Georgia : other gases,thousand megawatthours,ELEC.GEN.OOG-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Georgia : nuclear,thousand megawatthours,ELEC.GEN.NUC-GA-99.A,33682,31108,33257,33748,31534,32006,32545,31691,31683,33512,32306,33942,32903,32570,33838
+Georgia : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-GA-99.A,2596,2716,4140,3692,4032,2569,2236,2145,3260,3322,2705,2236,3714,3064,2984
+Georgia : other renewables,,ELEC.GEN.AOR-GA-99.A,,,,,,,,,,,,,,,
+Georgia : wind,thousand megawatthours,ELEC.GEN.WND-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Georgia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,3,14,119,129
+Georgia : geothermal,thousand megawatthours,ELEC.GEN.GEO-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Georgia : biomass,thousand megawatthours,ELEC.GEN.BIO-GA-99.A,3003,6381,3173,3192,3272,3419,3415,2782,2825,3181,3190,3276,3825,4163,4734
+Georgia : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-GA-99.A,-570,-648,-636,-878,-209,-400,-322,-157,272,-278,-734,-838,-427,-781,-815
+Georgia : other,thousand megawatthours,ELEC.GEN.OTH-GA-99.A,8,34,33,40,53,118,115,51,25,18,28,56,88,67,87
+Georgia : all solar,,ELEC.GEN.TSN-GA-99.A,,,,,,,,,,,,,,,
+Georgia : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,99,100
+Georgia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-GA-99.A,--,--,--,--,--,--,--,--,--,--,--,3,14,119,129
+Maryland,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Maryland : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MD-99.A,49062,48279,52244,52053,52662,48957,50198,47361,43775,43607,41818,37810,35851,37834,36366
+Maryland : coal,thousand megawatthours,ELEC.GEN.COW-MD-99.A,28379,28712,29939,29195,29303,29408,29699,27218,24162,23668,21059,16185,15538,17603,13926
+Maryland : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MD-99.A,3022,2282,3572,3297,3806,581,985,406,330,322,229,137,190,463,232
+Maryland : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maryland : natural gas,thousand megawatthours,ELEC.GEN.NG-MD-99.A,1761,2214,1196,1183,1887,1770,2241,1848,1768,2897,2311,4945,2888,2506,4555
+Maryland : other gases,thousand megawatthours,ELEC.GEN.OOG-MD-99.A,440,505,325,412,342,332,378,338,269,215,155,112,--,--,--
+Maryland : nuclear,thousand megawatthours,ELEC.GEN.NUC-MD-99.A,13656,12128,13691,14580,14703,13830,14353,14679,14550,13994,14397,13579,14264,14343,14643
+Maryland : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MD-99.A,1184,1661,2647,2508,1704,2104,1652,1974,1889,1667,2547,1657,1727,1616,1623
+Maryland : other renewables,,ELEC.GEN.AOR-MD-99.A,,,,,,,,,,,,,,,
+Maryland : wind,thousand megawatthours,ELEC.GEN.WND-MD-99.A,--,--,--,--,--,--,--,--,--,1,271,322,322,324,435
+Maryland : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MD-99.A,--,--,--,--,--,--,--,--,--,0,3,22,63,98,119
+Maryland : geothermal,thousand megawatthours,ELEC.GEN.GEO-MD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maryland : biomass,thousand megawatthours,ELEC.GEN.BIO-MD-99.A,373,522,596,589,623,626,603,612,551,572,548,554,556,567,514
+Maryland : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maryland : other,thousand megawatthours,ELEC.GEN.OTH-MD-99.A,248,255,278,289,294,305,287,286,256,270,299,296,303,313,318
+Maryland : all solar,,ELEC.GEN.TSN-MD-99.A,,,,,,,,,,,,,,,
+Maryland : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,253,339
+Maryland : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MD-99.A,--,--,--,--,--,--,--,--,--,0,3,22,63,98,119
+North Carolina,,ELEC.GEN..A,,,,,,,,,,,,,,,
+North Carolina : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NC-99.A,117496,124468,127582,126330,129749,125215,130115,125239,118407,128678,118390,116682,125936,128144,128388
+North Carolina : coal,thousand megawatthours,ELEC.GEN.COW-NC-99.A,72958,75188,74776,75546,78436,75487,79983,75815,65083,71951,59758,50932,47072,49238,39922
+North Carolina : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NC-99.A,656,592,784,611,519,451,496,320,297,293,218,178,218,460,435
+North Carolina : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,0
+North Carolina : natural gas,thousand megawatthours,ELEC.GEN.NG-NC-99.A,1534,3561,1580,2559,3159,3196,4457,4177,4852,8447,11155,19302,27983,28738,36545
+North Carolina : other gases,thousand megawatthours,ELEC.GEN.OOG-NC-99.A,1,1,0,0,0,0,0,0,0,0,--,--,--,--,--
+North Carolina : nuclear,thousand megawatthours,ELEC.GEN.NUC-NC-99.A,37775,39627,40907,40091,39982,39963,40045,39776,40848,40740,40527,39386,40242,40967,42097
+North Carolina : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NC-99.A,2596,3492,7201,5435,5397,3839,2984,3034,5171,4757,3893,3728,6901,4756,4742
+North Carolina : other renewables,,ELEC.GEN.AOR-NC-99.A,,,,,,,,,,,,,,,
+North Carolina : wind,thousand megawatthours,ELEC.GEN.WND-NC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Carolina : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NC-99.A,--,--,--,--,--,--,--,2,5,11,17,139,345,729,1374
+North Carolina : geothermal,thousand megawatthours,ELEC.GEN.GEO-NC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+North Carolina : biomass,thousand megawatthours,ELEC.GEN.BIO-NC-99.A,1751,1786,1976,1733,1807,1828,1672,1920,1889,2072,2328,2564,2610,2547,2589
+North Carolina : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NC-99.A,0,25,119,78,147,131,137,-121,43,0,0,0,0,78,0
+North Carolina : other,thousand megawatthours,ELEC.GEN.OTH-NC-99.A,225,196,239,277,303,319,342,316,220,407,493,452,567,631,685
+North Carolina : all solar,,ELEC.GEN.TSN-NC-99.A,,,,,,,,,,,,,,,
+North Carolina : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,74,86
+North Carolina : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NC-99.A,--,--,--,--,--,--,--,2,5,11,17,139,345,729,1374
+South Carolina,,ELEC.GEN..A,,,,,,,,,,,,,,,
+South Carolina : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-SC-99.A,89159,96563,93773,97940,102515,99268,103402,100978,100125,104153,102973,96756,95250,97158,96532
+South Carolina : coal,thousand megawatthours,ELEC.GEN.COW-SC-99.A,36699,36948,37432,38922,39692,39473,41583,41540,34478,37671,34169,28396,24407,28914,22631
+South Carolina : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-SC-99.A,308,300,409,380,339,221,217,129,140,163,112,108,103,246,193
+South Carolina : petroleum coke,thousand megawatthours,ELEC.GEN.PC-SC-99.A,--,--,48,491,279,16,0,52,383,28,0,0,0,0,0
+South Carolina : natural gas,thousand megawatthours,ELEC.GEN.NG-SC-99.A,1176,4498,1663,3798,5414,6068,5965,5729,9780,10927,12936,14332,11834,11407,16549
+South Carolina : other gases,thousand megawatthours,ELEC.GEN.OOG-SC-99.A,0,0,0,0,6,0,0,0,0,0,--,--,--,--,--
+South Carolina : nuclear,thousand megawatthours,ELEC.GEN.NUC-SC-99.A,49870,53326,50418,51201,53138,50797,53200,51763,52150,51988,52903,51145,54252,52419,53156
+South Carolina : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-SC-99.A,1225,1390,3665,2447,2938,1807,1556,1123,2332,2376,1554,1420,3160,2569,2564
+South Carolina : other renewables,,ELEC.GEN.AOR-SC-99.A,,,,,,,,,,,,,,,
+South Carolina : wind,thousand megawatthours,ELEC.GEN.WND-SC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Carolina : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-SC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,5,4
+South Carolina : geothermal,thousand megawatthours,ELEC.GEN.GEO-SC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Carolina : biomass,thousand megawatthours,ELEC.GEN.BIO-SC-99.A,894,1244,1296,1763,1814,1910,1996,1816,1748,1873,2129,2143,2226,2438,2289
+South Carolina : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-SC-99.A,-1036,-1143,-1207,-1149,-1199,-1120,-1211,-1267,-976,-935,-890,-896,-795,-884,-904
+South Carolina : other,thousand megawatthours,ELEC.GEN.OTH-SC-99.A,22,0,49,87,94,95,96,94,91,61,60,106,62,46,49
+South Carolina : all solar,,ELEC.GEN.TSN-SC-99.A,,,,,,,,,,,,,,,
+South Carolina : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-SC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,4,7
+South Carolina : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-SC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,5,4
+Virginia,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Virginia : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-VA-99.A,74105,75006,75309,78900,78943,73070,78361,72679,70082,72966,66671,70739,76897,77137,84412
+Virginia : coal,thousand megawatthours,ELEC.GEN.COW-VA-99.A,37770,38082,37093,35656,35425,34288,35421,31776,25599,25459,19881,14181,21161,20819,17231
+Virginia : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-VA-99.A,5462,3793,5780,5154,4265,839,2097,1150,1088,1293,503,364,313,1205,1108
+Virginia : petroleum coke,thousand megawatthours,ELEC.GEN.PC-VA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Virginia : natural gas,thousand megawatthours,ELEC.GEN.NG-VA-99.A,4196,4387,4619,6438,8295,7215,10904,9315,12201,16999,18332,25038,22651,20882,33284
+Virginia : other gases,thousand megawatthours,ELEC.GEN.OOG-VA-99.A,0,0,3,0,0,--,--,--,--,--,--,--,--,--,--
+Virginia : nuclear,thousand megawatthours,ELEC.GEN.NUC-VA-99.A,25759,27346,24816,28315,27918,27594,27268,27931,28212,26572,25548,28723,29326,30221,28060
+Virginia : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-VA-99.A,1014,868,1782,1583,1484,1351,1248,1011,1479,1500,1210,1044,1254,955,1158
+Virginia : other renewables,,ELEC.GEN.AOR-VA-99.A,,,,,,,,,,,,,,,
+Virginia : wind,thousand megawatthours,ELEC.GEN.WND-VA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Virginia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-VA-99.A,0,0,--,--,--,--,--,--,--,--,--,--,--,--,--
+Virginia : geothermal,thousand megawatthours,ELEC.GEN.GEO-VA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Virginia : biomass,thousand megawatthours,ELEC.GEN.BIO-VA-99.A,1747,2071,2261,2432,2498,2458,2566,2698,2418,2220,2196,2358,2906,3852,4144
+Virginia : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-VA-99.A,-2240,-1989,-1498,-1166,-1421,-1167,-1620,-1638,-1335,-1491,-1470,-1366,-1189,-1295,-1036
+Virginia : other,thousand megawatthours,ELEC.GEN.OTH-VA-99.A,397,447,453,488,479,491,477,434,420,414,470,397,475,500,462
+Virginia : all solar,,ELEC.GEN.TSN-VA-99.A,,,,,,,,,,,,,,,
+Virginia : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-VA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,22,30
+Virginia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-VA-99.A,0,0,--,--,--,--,--,--,--,--,--,--,--,--,--
+West Virginia,,ELEC.GEN..A,,,,,,,,,,,,,,,
+West Virginia : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-WV-99.A,81837,94762,94712,89750,93626,93816,93933,91123,70783,80789,79000,73413,75863,81060,72295
+West Virginia : coal,thousand megawatthours,ELEC.GEN.COW-WV-99.A,80214,92951,92469,87585,91417,91473,91866,89113,68080,78148,75964,70267,72284,77515,68056
+West Virginia : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-WV-99.A,279,298,248,268,223,175,200,137,169,155,188,143,150,163,140
+West Virginia : petroleum coke,thousand megawatthours,ELEC.GEN.PC-WV-99.A,--,--,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Virginia : natural gas,thousand megawatthours,ELEC.GEN.NG-WV-99.A,276,241,278,255,287,362,389,180,109,140,251,243,270,653,1304
+West Virginia : other gases,thousand megawatthours,ELEC.GEN.OOG-WV-99.A,90,175,170,148,86,53,56,50,36,40,30,32,30,31,29
+West Virginia : nuclear,thousand megawatthours,ELEC.GEN.NUC-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+West Virginia : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-WV-99.A,952,1066,1356,1318,1448,1572,1254,1248,1646,1367,1453,1431,1739,1242,1385
+West Virginia : other renewables,,ELEC.GEN.AOR-WV-99.A,,,,,,,,,,,,,,,
+West Virginia : wind,thousand megawatthours,ELEC.GEN.WND-WV-99.A,--,9,170,161,154,174,168,392,742,939,1103,1286,1387,1451,1376
+West Virginia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+West Virginia : geothermal,thousand megawatthours,ELEC.GEN.GEO-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+West Virginia : biomass,thousand megawatthours,ELEC.GEN.BIO-WV-99.A,16,6,4,2,1,0,0,0,-1,0,9,11,4,5,5
+West Virginia : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+West Virginia : other,thousand megawatthours,ELEC.GEN.OTH-WV-99.A,11,17,17,13,11,6,0,2,0,1,0,0,0,0,0
+West Virginia : all solar,,ELEC.GEN.TSN-WV-99.A,,,,,,,,,,,,,,,
+West Virginia : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,4,4
+West Virginia : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+East South Central,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Alabama,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Alabama : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-AL-99.A,125345,132921,137487,137355,137949,140895,143826,145870,143256,152151,156339,152879,150573,149340,152477
+Alabama : coal,thousand megawatthours,ELEC.GEN.COW-AL-99.A,72198,72042,76696,74832,78128,78109,77994,74605,55609,63050,56807,45607,47050,47302,41410
+Alabama : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-AL-99.A,435,312,337,295,333,180,157,204,219,200,120,110,74,98,84
+Alabama : petroleum coke,thousand megawatthours,ELEC.GEN.PC-AL-99.A,--,--,--,--,--,--,--,--,--,--,0,--,--,--,--
+Alabama : natural gas,thousand megawatthours,ELEC.GEN.NG-AL-99.A,9613,15904,12244,15977,13869,19407,23232,22363,31617,39235,47681,55705,46586,48270,55844
+Alabama : other gases,thousand megawatthours,ELEC.GEN.OOG-AL-99.A,189,113,170,182,107,131,178,204,135,277,292,178,268,180,36
+Alabama : nuclear,thousand megawatthours,ELEC.GEN.NUC-AL-99.A,30357,31857,31677,31636,31694,31911,34325,38993,39716,37941,39356,40841,40816,41244,41951
+Alabama : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-AL-99.A,8356,8825,12665,10626,10145,7252,4136,6136,12535,8704,8884,7435,12899,9467,9862
+Alabama : other renewables,,ELEC.GEN.AOR-AL-99.A,,,,,,,,,,,,,,,
+Alabama : wind,thousand megawatthours,ELEC.GEN.WND-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alabama : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alabama : geothermal,thousand megawatthours,ELEC.GEN.GEO-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alabama : biomass,thousand megawatthours,ELEC.GEN.BIO-AL-99.A,4189,3746,3673,3779,3647,3884,3801,3357,3050,2377,2817,2777,2876,2779,3289
+Alabama : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alabama : other,thousand megawatthours,ELEC.GEN.OTH-AL-99.A,8,123,26,28,25,21,4,8,374,366,383,227,3,NM,0
+Alabama : all solar,,ELEC.GEN.TSN-AL-99.A,,,,,,,,,,,,,,,
+Alabama : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,3,3
+Alabama : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AL-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Kentucky : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-KY-99.A,95418,92107,91719,94530,97822,98792,97225,97863,90630,98218,98351,89950,89741,90896,83544
+Kentucky : coal,thousand megawatthours,ELEC.GEN.COW-KY-99.A,90799,83274,84061,86121,89083,91198,90483,91621,84038,91054,91656,82762,83303,83602,72620
+Kentucky : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-KY-99.A,124,174,150,121,118,96,119,131,127,123,139,107,107,120,113
+Kentucky : petroleum coke,thousand megawatthours,ELEC.GEN.PC-KY-99.A,--,2895,2795,3500,3563,3245,2673,2743,1890,2162,1596,1429,1302,1033,964
+Kentucky : natural gas,thousand megawatthours,ELEC.GEN.NG-KY-99.A,630,1374,444,580,1654,1177,1796,979,878,1841,1546,2949,1418,2500,5950
+Kentucky : other gases,thousand megawatthours,ELEC.GEN.OOG-KY-99.A,--,--,0,2,5,4,5,4,4,3,--,--,--,--,--
+Kentucky : nuclear,thousand megawatthours,ELEC.GEN.NUC-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-KY-99.A,3856,4025,3948,3780,2961,2592,1669,1917,3318,2580,2969,2362,3275,3144,3403
+Kentucky : other renewables,,ELEC.GEN.AOR-KY-99.A,,,,,,,,,,,,,,,
+Kentucky : wind,thousand megawatthours,ELEC.GEN.WND-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky : geothermal,thousand megawatthours,ELEC.GEN.GEO-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky : biomass,thousand megawatthours,ELEC.GEN.BIO-KY-99.A,10,365,299,411,421,459,466,460,364,440,436,333,327,448,441
+Kentucky : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Kentucky : other,thousand megawatthours,ELEC.GEN.OTH-KY-99.A,--,--,22,16,17,22,16,9,13,15,9,8,9,50,52
+Kentucky : all solar,,ELEC.GEN.TSN-KY-99.A,,,,,,,,,,,,,,,
+Kentucky : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,13,14
+Kentucky : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-KY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Mississippi : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MS-99.A,53446,42889,40148,43663,45067,46229,50044,48206,48701,54487,51571,54584,52810,55127,64758
+Mississippi : coal,thousand megawatthours,ELEC.GEN.COW-MS-99.A,19196,14853,17083,17478,16636,18105,17407,16683,12958,13629,9723,7212,8701,10743,6400
+Mississippi : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MS-99.A,5144,30,1632,2777,1445,399,399,76,17,81,36,17,14,14,14
+Mississippi : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : natural gas,thousand megawatthours,ELEC.GEN.NG-MS-99.A,17751,16971,9477,11619,15360,15706,21335,20607,23267,29619,29966,38550,31777,32606,45117
+Mississippi : other gases,thousand megawatthours,ELEC.GEN.OOG-MS-99.A,0,38,32,41,20,44,42,40,25,2,--,--,0,--,--
+Mississippi : nuclear,thousand megawatthours,ELEC.GEN.NUC-MS-99.A,9924,10059,10902,10233,10078,10419,9359,9397,10999,9643,10337,7296,10865,10252,11715
+Mississippi : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : other renewables,,ELEC.GEN.AOR-MS-99.A,,,,,,,,,,,,,,,
+Mississippi : wind,thousand megawatthours,ELEC.GEN.WND-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : geothermal,thousand megawatthours,ELEC.GEN.GEO-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : biomass,thousand megawatthours,ELEC.GEN.BIO-MS-99.A,1432,937,1022,1514,1522,1541,1493,1391,1424,1504,1506,1509,1448,1508,1507
+Mississippi : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : other,thousand megawatthours,ELEC.GEN.OTH-MS-99.A,0,0,0,2,7,16,7,10,12,9,3,0,5,4,6
+Mississippi : all solar,,ELEC.GEN.TSN-MS-99.A,,,,,,,,,,,,,,,
+Mississippi : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,2,2
+Mississippi : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Tennessee,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Tennessee : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-TN-99.A,96222,96114,92222,97595,97117,93911,95113,90663,79717,82349,81104,77724,79652,79507,75215
+Tennessee : coal,thousand megawatthours,ELEC.GEN.COW-TN-99.A,59730,59706,54921,58060,59051,60498,60237,57058,41633,43670,40777,35419,32486,35875,30586
+Tennessee : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-TN-99.A,400,270,406,191,231,160,232,216,187,217,195,144,130,185,135
+Tennessee : petroleum coke,thousand megawatthours,ELEC.GEN.PC-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Tennessee : natural gas,thousand megawatthours,ELEC.GEN.NG-TN-99.A,456,470,627,292,531,664,722,467,409,2302,3259,8075,5017,6200,9324
+Tennessee : other gases,thousand megawatthours,ELEC.GEN.OOG-TN-99.A,18,12,3,13,15,14,13,12,12,13,17,13,13,13,12
+Tennessee : nuclear,thousand megawatthours,ELEC.GEN.NUC-TN-99.A,28576,27574,24153,28612,27803,24679,28700,27030,26962,27739,26919,25102,28494,27670,24960
+Tennessee : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-TN-99.A,6947,7974,12004,10408,9310,7749,4940,5646,10212,8138,9576,8296,12443,8901,9581
+Tennessee : other renewables,,ELEC.GEN.AOR-TN-99.A,,,,,,,,,,,,,,,
+Tennessee : wind,thousand megawatthours,ELEC.GEN.WND-TN-99.A,--,4,4,4,3,55,50,50,52,41,53,47,47,51,46
+Tennessee : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,12,20,27,76
+Tennessee : geothermal,thousand megawatthours,ELEC.GEN.GEO-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Tennessee : biomass,thousand megawatthours,ELEC.GEN.BIO-TN-99.A,822,796,826,826,763,756,921,915,899,947,967,777,1043,1062,1004
+Tennessee : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-TN-99.A,-734,-696,-729,-818,-598,-668,-704,-739,-650,-721,-660,-163,-42,-491,-531
+Tennessee : other,thousand megawatthours,ELEC.GEN.OTH-TN-99.A,7,6,7,6,9,5,3,8,1,3,1,1,1,14,21
+Tennessee : all solar,,ELEC.GEN.TSN-TN-99.A,,,,,,,,,,,,,,,
+Tennessee : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,60,60
+Tennessee : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,12,20,27,76
+West South Central,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Arkansas,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Arkansas : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-AR-99.A,47192,47612,50401,51928,47795,52169,54596,55051,57458,61000,61308,65006,60322,61592,55559
+Arkansas : coal,thousand megawatthours,ELEC.GEN.COW-AR-99.A,24764,23098,23504,25354,23037,24183,25744,26115,25075,28152,29418,28431,31889,33221,21740
+Arkansas : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-AR-99.A,879,160,289,539,203,160,94,64,88,45,56,33,42,29,60
+Arkansas : petroleum coke,thousand megawatthours,ELEC.GEN.PC-AR-99.A,--,--,--,--,5,1,0,0,0,0,0,0,0,0,0
+Arkansas : natural gas,thousand megawatthours,ELEC.GEN.NG-AR-99.A,2707,4603,7301,5069,6006,9282,8364,8461,11221,12469,12947,17117,12139,9614,14866
+Arkansas : other gases,thousand megawatthours,ELEC.GEN.OOG-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arkansas : nuclear,thousand megawatthours,ELEC.GEN.NUC-AR-99.A,14781,14559,14689,15450,13690,15233,15486,14168,15170,15023,14194,15493,11945,14478,13838
+Arkansas : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-AR-99.A,2548,3436,2655,3643,3083,1551,3237,4660,4193,3659,2958,2198,2655,2640,3569
+Arkansas : other renewables,,ELEC.GEN.AOR-AR-99.A,,,,,,,,,,,,,,,
+Arkansas : wind,thousand megawatthours,ELEC.GEN.WND-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arkansas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,1
+Arkansas : geothermal,thousand megawatthours,ELEC.GEN.GEO-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arkansas : biomass,thousand megawatthours,ELEC.GEN.BIO-AR-99.A,1512,1585,1844,1810,1736,1723,1624,1513,1586,1624,1668,1660,1601,1530,1441
+Arkansas : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-AR-99.A,--,--,10,25,21,15,30,48,100,-1,34,42,31,67,32
+Arkansas : other,thousand megawatthours,ELEC.GEN.OTH-AR-99.A,0,171,109,38,15,22,17,22,24,28,32,30,21,13,12
+Arkansas : all solar,,ELEC.GEN.TSN-AR-99.A,,,,,,,,,,,,,,,
+Arkansas : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,5,5
+Arkansas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,1
+Louisiana,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Louisiana : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-LA-99.A,87894,94971,94885,98172,92617,90922,92578,92453,90994,102885,105491,103408,102010,104229,107812
+Louisiana : coal,thousand megawatthours,ELEC.GEN.COW-LA-99.A,21968,22051,22889,23658,23087,24395,23051,24100,23067,23924,24628,21422,20844,19221,15165
+Louisiana : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-LA-99.A,1786,113,1085,2031,1902,260,282,267,102,106,49,38,54,48,78
+Louisiana : petroleum coke,thousand megawatthours,ELEC.GEN.PC-LA-99.A,1664,1751,1853,1872,1639,1612,1968,2038,1755,3175,4658,2992,4891,5183,4165
+Louisiana : natural gas,thousand megawatthours,ELEC.GEN.NG-LA-99.A,40373,47901,45434,46170,44168,41933,43915,45344,44003,51344,54322,58564,52510,56121,66211
+Louisiana : other gases,thousand megawatthours,ELEC.GEN.OOG-LA-99.A,441,1498,2687,2533,1897,1595,1811,1101,1227,1561,1292,1247,2246,1943,2401
+Louisiana : nuclear,thousand megawatthours,ELEC.GEN.NUC-LA-99.A,17336,17305,16126,17080,15676,16735,17078,15371,16782,18639,16615,15659,16954,17311,15301
+Louisiana : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-LA-99.A,732,891,892,1099,811,713,827,1064,1236,1109,1044,680,1045,1090,999
+Louisiana : other renewables,,ELEC.GEN.AOR-LA-99.A,,,,,,,,,,,,,,,
+Louisiana : wind,thousand megawatthours,ELEC.GEN.WND-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Louisiana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Louisiana : geothermal,thousand megawatthours,ELEC.GEN.GEO-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Louisiana : biomass,thousand megawatthours,ELEC.GEN.BIO-LA-99.A,2704,2810,3078,2966,2887,2962,2980,2710,2364,2468,2443,2430,2787,2780,2705
+Louisiana : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Louisiana : other,thousand megawatthours,ELEC.GEN.OTH-LA-99.A,890,650,840,764,550,715,666,458,456,559,440,376,679,533,788
+Louisiana : all solar,,ELEC.GEN.TSN-LA-99.A,,,,,,,,,,,,,,,
+Louisiana : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,104,153
+Louisiana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-LA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oklahoma,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Oklahoma : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-OK-99.A,55249,59183,60627,60730,68608,70615,72819,76329,75067,72251,74606,77897,73674,70156,76136
+Oklahoma : coal,thousand megawatthours,ELEC.GEN.COW-OK-99.A,34616,35965,36676,33801,36309,35032,34438,36315,34059,31475,34479,29302,29999,29906,24867
+Oklahoma : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-OK-99.A,175,50,161,68,70,64,160,23,9,14,16,11,10,12,11
+Oklahoma : petroleum coke,thousand megawatthours,ELEC.GEN.PC-OK-99.A,--,--,--,--,--,--,0,0,0,5,0,0,0,0,0
+Oklahoma : natural gas,thousand megawatthours,ELEC.GEN.NG-OK-99.A,17944,21049,21823,23286,28590,32981,33144,33774,34631,33942,32837,39024,30056,26641,34286
+Oklahoma : other gases,thousand megawatthours,ELEC.GEN.OOG-OK-99.A,68,71,45,--,19,16,22,10,0,0,--,--,--,--,--
+Oklahoma : nuclear,thousand megawatthours,ELEC.GEN.NUC-OK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oklahoma : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-OK-99.A,2345,1988,1798,2977,2630,624,3066,3811,3553,2809,1507,1146,2178,1428,2664
+Oklahoma : other renewables,,ELEC.GEN.AOR-OK-99.A,,,,,,,,,,,,,,,
+Oklahoma : wind,thousand megawatthours,ELEC.GEN.WND-OK-99.A,--,--,54,573,848,1712,1849,2358,2698,3808,5605,8158,11162,11937,14031
+Oklahoma : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,2
+Oklahoma : geothermal,thousand megawatthours,ELEC.GEN.GEO-OK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oklahoma : biomass,thousand megawatthours,ELEC.GEN.BIO-OK-99.A,231,239,267,250,289,297,280,193,231,352,314,363,344,338,336
+Oklahoma : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-OK-99.A,-128,-178,-206,-234,-154,-116,-166,-168,-117,-153,-153,-117,-78,-106,-72
+Oklahoma : other,thousand megawatthours,ELEC.GEN.OTH-OK-99.A,--,--,7,9,6,5,25,13,2,0,2,10,2,-2,11
+Oklahoma : all solar,,ELEC.GEN.TSN-OK-99.A,,,,,,,,,,,,,,,
+Oklahoma : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-OK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,2,3
+Oklahoma : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,2
+Texas,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Texas : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-TX-99.A,372580,385629,379200,390299,396669,400583,405492,404788,397168,411695,435477,429813,433380,437630,449826
+Texas : coal,thousand megawatthours,ELEC.GEN.COW-TX-99.A,135100,141847,146990,148885,148358,146391,147279,147132,139107,150173,157897,138088,149404,148174,121554
+Texas : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-TX-99.A,1890,332,1646,306,201,189,178,117,137,121,137,91,92,102,108
+Texas : petroleum coke,thousand megawatthours,ELEC.GEN.PC-TX-99.A,914,1289,869,1422,1382,1600,1131,917,1268,587,840,1393,859,176,134
+Texas : natural gas,thousand megawatthours,ELEC.GEN.NG-TX-99.A,190111,196433,184911,188755,197665,197870,199531,193247,189066,186882,200500,213901,203798,204721,237731
+Texas : other gases,thousand megawatthours,ELEC.GEN.OOG-TX-99.A,1574,3053,5999,4204,3272,3798,3601,3401,3649,3291,3390,2999,2400,2307,2579
+Texas : nuclear,thousand megawatthours,ELEC.GEN.NUC-TX-99.A,38163,35618,33437,40435,38232,41264,40955,40727,41498,41335,39648,38441,38315,39287,39355
+Texas : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-TX-99.A,1200,1123,897,1301,1333,662,1644,1039,1029,1262,563,584,480,386,956
+Texas : other renewables,,ELEC.GEN.AOR-TX-99.A,,,,,,,,,,,,,,,
+Texas : wind,thousand megawatthours,ELEC.GEN.WND-TX-99.A,1188,2656,2570,3138,4237,6671,9006,16225,20026,26251,30548,32214,35874,40005,44833
+Texas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-TX-99.A,0,--,--,--,--,--,--,--,--,8,29,118,163,282,401
+Texas : geothermal,thousand megawatthours,ELEC.GEN.GEO-TX-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Texas : biomass,thousand megawatthours,ELEC.GEN.BIO-TX-99.A,993,1319,1396,1109,1098,1148,1281,1414,1078,1445,1606,1684,1723,1808,1440
+Texas : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-TX-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Texas : other,thousand megawatthours,ELEC.GEN.OTH-TX-99.A,1447,1957,484,745,890,989,885,569,310,339,319,298,272,381,734
+Texas : all solar,,ELEC.GEN.TSN-TX-99.A,,,,,,,,,,,,,,,
+Texas : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-TX-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,164,223
+Texas : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-TX-99.A,0,--,--,--,--,--,--,--,--,8,29,118,163,282,401
+Mountain,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Arizona,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Arizona : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-AZ-99.A,89911,94132,94396,104564,101479,104393,113341,119459,111971,111751,108125,110905,113326,112257,113142
+Arizona : coal,thousand megawatthours,ELEC.GEN.COW-AZ-99.A,40061,38227,38091,39811,40144,40443,41275,43840,39707,43644,43702,40116,43492,42665,36167
+Arizona : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-AZ-99.A,314,57,49,41,43,73,49,52,63,66,53,42,43,57,48
+Arizona : petroleum coke,thousand megawatthours,ELEC.GEN.PC-AZ-99.A,0,--,--,--,--,--,0,0,0,0,0,--,--,--,--
+Arizona : natural gas,thousand megawatthours,ELEC.GEN.NG-AZ-99.A,12872,17293,18933,28265,28893,32869,38469,38822,34739,29676,23253,30295,29685,27242,33657
+Arizona : other gases,thousand megawatthours,ELEC.GEN.OOG-AZ-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arizona : nuclear,thousand megawatthours,ELEC.GEN.NUC-AZ-99.A,28724,30862,28581,28113,25807,24012,26782,29250,30662,31200,31278,31934,31431,32321,32526
+Arizona : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-AZ-99.A,7624,7427,7075,6973,6410,6793,6598,7286,6427,6622,9174,6717,5915,6118,6536
+Arizona : other renewables,,ELEC.GEN.AOR-AZ-99.A,,,,,,,,,,,,,,,
+Arizona : wind,thousand megawatthours,ELEC.GEN.WND-AZ-99.A,--,--,--,--,--,--,--,--,30,135,256,532,450,468,452
+Arizona : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AZ-99.A,0,0,0,4,14,13,9,15,14,16,83,955,2111,3142,3457
+Arizona : geothermal,thousand megawatthours,ELEC.GEN.GEO-AZ-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arizona : biomass,thousand megawatthours,ELEC.GEN.BIO-AZ-99.A,39,53,45,44,60,40,33,99,159,168,190,211,171,231,227
+Arizona : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-AZ-99.A,276,124,284,-53,107,149,125,95,169,209,121,79,24,14,73
+Arizona : other,thousand megawatthours,ELEC.GEN.OTH-AZ-99.A,--,88,1339,1368,--,--,--,--,2,15,15,24,3,0,--
+Arizona : all solar,,ELEC.GEN.TSN-AZ-99.A,,,,,,,,,,,,,,,
+Arizona : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-AZ-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,1101,1370
+Arizona : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AZ-99.A,0,0,0,4,14,13,9,15,14,16,83,955,2111,3142,3457
+Colorado,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Colorado : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-CO-99.A,46876,45600,46617,47869,49617,50698,53907,53442,50566,50721,51433,52557,52937,53847,52393
+Colorado : coal,thousand megawatthours,ELEC.GEN.COW-CO-99.A,35951,35388,36116,35848,35570,36269,35936,34828,31636,34559,33955,34521,33703,32545,31541
+Colorado : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-CO-99.A,176,23,34,14,17,21,28,19,13,17,22,11,10,10,7
+Colorado : petroleum coke,thousand megawatthours,ELEC.GEN.PC-CO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Colorado : natural gas,thousand megawatthours,ELEC.GEN.NG-CO-99.A,9392,9028,9226,10747,11923,11919,15014,13487,13840,11062,10186,10524,10709,11954,11644
+Colorado : other gases,thousand megawatthours,ELEC.GEN.OOG-CO-99.A,--,3,4,2,2,3,2,0,0,0,--,--,--,--,--
+Colorado : nuclear,thousand megawatthours,ELEC.GEN.NUC-CO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Colorado : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-CO-99.A,1495,1209,1262,1195,1415,1791,1730,2039,1886,1578,2083,1497,1213,1770,1620
+Colorado : other renewables,,ELEC.GEN.AOR-CO-99.A,,,,,,,,,,,,,,,
+Colorado : wind,thousand megawatthours,ELEC.GEN.WND-CO-99.A,49,139,147,220,776,866,1292,3221,3164,3452,5200,5969,7204,7369,7475
+Colorado : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CO-99.A,--,--,--,--,--,--,2,18,26,42,105,165,248,253,251
+Colorado : geothermal,thousand megawatthours,ELEC.GEN.GEO-CO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Colorado : biomass,thousand megawatthours,ELEC.GEN.BIO-CO-99.A,64,30,31,35,34,31,31,45,57,60,62,58,84,126,81
+Colorado : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-CO-99.A,-251,-220,-204,-192,-122,-201,-168,-249,-109,-121,-243,-244,-280,-225,-279
+Colorado : other,thousand megawatthours,ELEC.GEN.OTH-CO-99.A,0,0,--,--,0,0,41,33,53,70,63,55,46,47,52
+Colorado : all solar,,ELEC.GEN.TSN-CO-99.A,,,,,,,,,,,,,,,
+Colorado : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-CO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,353,391
+Colorado : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CO-99.A,--,--,--,--,--,--,2,18,26,42,105,165,248,253,251
+Idaho,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Idaho : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-ID-99.A,9347,9787,10423,10863,10825,13386,11484,11971,13100,12025,16569,15499,15186,15184,15667
+Idaho : coal,thousand megawatthours,ELEC.GEN.COW-ID-99.A,72,91,90,99,95,82,84,90,83,88,83,77,92,78,79
+Idaho : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-ID-99.A,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Idaho : petroleum coke,thousand megawatthours,ELEC.GEN.PC-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : natural gas,thousand megawatthours,ELEC.GEN.NG-ID-99.A,1405,329,1375,1704,1597,1298,1657,1700,1644,1689,1111,1898,3392,2553,3804
+Idaho : other gases,thousand megawatthours,ELEC.GEN.OOG-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : nuclear,thousand megawatthours,ELEC.GEN.NUC-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-ID-99.A,7223,8769,8354,8462,8542,11242,9022,9363,10434,9154,13405,10940,8473,9002,8757
+Idaho : other renewables,,ELEC.GEN.AOR-ID-99.A,,,,,,,,,,,,,,,
+Idaho : wind,thousand megawatthours,ELEC.GEN.WND-ID-99.A,--,--,--,--,--,170,172,207,313,441,1307,1891,2460,2806,2270
+Idaho : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : geothermal,thousand megawatthours,ELEC.GEN.GEO-ID-99.A,--,--,--,--,--,--,--,86,76,72,63,75,40,79,76
+Idaho : biomass,thousand megawatthours,ELEC.GEN.BIO-ID-99.A,533,508,541,560,560,520,481,455,478,501,522,549,652,593,601
+Idaho : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : other,thousand megawatthours,ELEC.GEN.OTH-ID-99.A,109,90,63,38,31,73,69,70,72,79,78,69,77,75,81
+Idaho : all solar,,ELEC.GEN.TSN-ID-99.A,,,,,,,,,,,,,,,
+Idaho : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,4,6
+Idaho : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Montana,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Montana : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-MT-99.A,24232,25474,26269,26789,27939,28244,28931,29637,26713,29791,30129,27805,27687,30258,29302
+Montana : coal,thousand megawatthours,ELEC.GEN.COW-MT-99.A,17036,15338,17049,17380,17823,17085,18357,18332,15611,18601,15056,13987,14880,15579,16013
+Montana : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-MT-99.A,1,14,15,22,17,22,16,16,13,13,18,13,15,26,14
+Montana : petroleum coke,thousand megawatthours,ELEC.GEN.PC-MT-99.A,497,456,388,417,398,397,463,404,478,395,443,454,448,403,483
+Montana : natural gas,thousand megawatthours,ELEC.GEN.NG-MT-99.A,20,17,25,28,27,68,106,66,78,57,418,464,614,515,599
+Montana : other gases,thousand megawatthours,ELEC.GEN.OOG-MT-99.A,--,19,20,23,15,11,19,6,1,2,0,0,0,0,17
+Montana : nuclear,thousand megawatthours,ELEC.GEN.NUC-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Montana : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-MT-99.A,6613,9567,8702,8856,9587,10130,9364,10000,9506,9415,12596,11283,9638,11483,9888
+Montana : other renewables,,ELEC.GEN.AOR-MT-99.A,,,,,,,,,,,,,,,
+Montana : wind,thousand megawatthours,ELEC.GEN.WND-MT-99.A,--,--,--,--,--,436,496,593,821,930,1265,1262,1755,1974,1965
+Montana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Montana : geothermal,thousand megawatthours,ELEC.GEN.GEO-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Montana : biomass,thousand megawatthours,ELEC.GEN.BIO-MT-99.A,65,63,71,62,72,94,111,111,95,97,--,--,5,13,21
+Montana : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Montana : other,thousand megawatthours,ELEC.GEN.OTH-MT-99.A,--,--,--,--,--,--,--,111,110,281,333,341,332,265,303
+Montana : all solar,,ELEC.GEN.TSN-MT-99.A,,,,,,,,,,,,,,,
+Montana : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,11,8
+Montana : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-MT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nevada,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Nevada : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NV-99.A,33876,32089,33195,37667,40214,31860,32670,35090,37705,35146,31936,35173,36444,36001,39047
+Nevada : coal,thousand megawatthours,ELEC.GEN.COW-NV-99.A,17737,16413,17086,18257,18384,7254,7091,7812,7540,6997,5407,4079,5255,6548,2657
+Nevada : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NV-99.A,912,25,17,96,21,17,11,14,16,11,14,19,19,15,16
+Nevada : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nevada : natural gas,thousand megawatthours,ELEC.GEN.NG-NV-99.A,11514,12211,13253,16381,18836,21184,22263,23972,25878,23688,21841,25647,24767,22961,29000
+Nevada : other gases,thousand megawatthours,ELEC.GEN.OOG-NV-99.A,--,45,17,21,8,4,4,2,2,6,7,7,6,5,6
+Nevada : nuclear,thousand megawatthours,ELEC.GEN.NUC-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nevada : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NV-99.A,2514,2268,1757,1615,1702,2058,2003,1751,2461,2157,2191,2440,2682,2389,2264
+Nevada : other renewables,,ELEC.GEN.AOR-NV-99.A,,,,,,,,,,,,,,,
+Nevada : wind,thousand megawatthours,ELEC.GEN.WND-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,129,251,300,310
+Nevada : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NV-99.A,--,--,--,--,--,--,44,156,174,217,291,473,745,1014,1657
+Nevada : geothermal,thousand megawatthours,ELEC.GEN.GEO-NV-99.A,1200,1127,1066,1298,1263,1344,1253,1383,1633,2070,2146,2347,2670,2729,3111
+Nevada : biomass,thousand megawatthours,ELEC.GEN.BIO-NV-99.A,--,--,--,--,--,--,--,--,1,0,0,19,24,25,26
+Nevada : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nevada : other,thousand megawatthours,ELEC.GEN.OTH-NV-99.A,--,--,--,--,--,--,--,--,--,0,38,12,25,15,1
+Nevada : all solar,,ELEC.GEN.TSN-NV-99.A,,,,,,,,,,,,,,,
+Nevada : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,104,186
+Nevada : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NV-99.A,--,--,--,--,--,--,44,156,174,217,291,473,745,1014,1657
+New Mexico,,ELEC.GEN..A,,,,,,,,,,,,,,,
+New Mexico : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-NM-99.A,33612,30662,32736,32940,35136,37266,35985,37010,39674,36252,38181,36636,35871,32306,32701
+New Mexico : coal,thousand megawatthours,ELEC.GEN.COW-NM-99.A,28402,26903,28813,29264,29947,29859,27604,27014,29117,25618,27141,24994,24145,20356,20440
+New Mexico : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-NM-99.A,66,33,51,31,37,41,44,53,45,50,38,46,58,63,63
+New Mexico : petroleum coke,thousand megawatthours,ELEC.GEN.PC-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Mexico : natural gas,thousand megawatthours,ELEC.GEN.NG-NM-99.A,4887,3442,3519,2993,4187,5890,6660,7966,8661,8512,8566,8799,8975,8976,9365
+New Mexico : other gases,thousand megawatthours,ELEC.GEN.OOG-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Mexico : nuclear,thousand megawatthours,ELEC.GEN.NUC-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Mexico : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-NM-99.A,237,265,171,139,165,198,268,312,271,217,195,223,92,98,99
+New Mexico : other renewables,,ELEC.GEN.AOR-NM-99.A,,,,,,,,,,,,,,,
+New Mexico : wind,thousand megawatthours,ELEC.GEN.WND-NM-99.A,--,--,183,513,795,1255,1393,1643,1547,1832,2104,2226,2193,2275,2090
+New Mexico : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NM-99.A,--,--,--,--,--,--,--,--,--,9,128,334,388,515,615
+New Mexico : geothermal,thousand megawatthours,ELEC.GEN.GEO-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,0,9,10
+New Mexico : biomass,thousand megawatthours,ELEC.GEN.BIO-NM-99.A,19,19,0,0,5,22,16,19,34,14,9,14,19,14,20
+New Mexico : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Mexico : other,thousand megawatthours,ELEC.GEN.OTH-NM-99.A,--,--,--,--,--,--,--,3,--,--,--,0,1,1,1
+New Mexico : all solar,,ELEC.GEN.TSN-NM-99.A,,,,,,,,,,,,,,,
+New Mexico : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,120,142
+New Mexico : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-NM-99.A,--,--,--,--,--,--,--,--,--,9,128,334,388,515,615
+Utah,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Utah : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-UT-99.A,35854,36608,38024,38212,38165,41263,45373,46579,43543,42249,40836,39403,42517,43785,41949
+Utah : coal,thousand megawatthours,ELEC.GEN.COW-UT-99.A,33679,34488,35979,36618,35970,36856,37171,38020,35526,34057,33138,30799,34285,33377,31656
+Utah : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-UT-99.A,58,54,33,33,41,62,39,44,36,50,54,40,26,24,20
+Utah : petroleum coke,thousand megawatthours,ELEC.GEN.PC-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Utah : natural gas,thousand megawatthours,ELEC.GEN.NG-UT-99.A,1446,1380,1383,910,1178,3389,7424,7366,6444,6455,5256,6580,6606,8376,8218
+Utah : other gases,thousand megawatthours,ELEC.GEN.OOG-UT-99.A,--,0,0,0,0,0,0,36,28,36,33,4,2,0,8
+Utah : nuclear,thousand megawatthours,ELEC.GEN.NUC-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Utah : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-UT-99.A,508,458,421,450,784,747,539,668,835,696,1230,748,505,633,769
+Utah : other renewables,,ELEC.GEN.AOR-UT-99.A,,,,,,,,,,,,,,,
+Utah : wind,thousand megawatthours,ELEC.GEN.WND-UT-99.A,--,--,--,--,--,--,--,24,160,448,573,704,540,660,626
+Utah : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,2,2,2,32
+Utah : geothermal,thousand megawatthours,ELEC.GEN.GEO-UT-99.A,153,218,198,195,185,191,164,254,279,277,330,335,319,522,430
+Utah : biomass,thousand megawatthours,ELEC.GEN.BIO-UT-99.A,5,6,5,4,4,15,31,24,48,56,58,60,71,73,85
+Utah : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Utah : other,thousand megawatthours,ELEC.GEN.OTH-UT-99.A,4,5,4,3,3,5,5,143,187,174,165,133,161,118,106
+Utah : all solar,,ELEC.GEN.TSN-UT-99.A,,,,,,,,,,,,,,,
+Utah : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,37,67
+Utah : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,2,2,2,32
+Wyoming,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Wyoming : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-WY-99.A,44777,43784,43627,44808,45567,45400,45633,46500,46029,48119,47638,49589,52483,49696,48967
+Wyoming : coal,thousand megawatthours,ELEC.GEN.COW-WY-99.A,42789,41923,42341,43346,43346,42892,43127,43808,41954,42987,40961,43412,46437,43409,43091
+Wyoming : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-WY-99.A,36,40,45,46,42,46,47,44,50,56,55,52,39,45,45
+Wyoming : petroleum coke,thousand megawatthours,ELEC.GEN.PC-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : natural gas,thousand megawatthours,ELEC.GEN.NG-WY-99.A,592,713,280,87,325,501,594,495,488,459,459,513,512,557,722
+Wyoming : other gases,thousand megawatthours,ELEC.GEN.OOG-WY-99.A,8,--,--,13,264,310,312,289,284,279,265,282,281,337,405
+Wyoming : nuclear,thousand megawatthours,ELEC.GEN.NUC-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-WY-99.A,879,584,594,593,808,843,729,835,967,1024,1224,893,711,869,868
+Wyoming : other renewables,,ELEC.GEN.AOR-WY-99.A,,,,,,,,,,,,,,,
+Wyoming : wind,thousand megawatthours,ELEC.GEN.WND-WY-99.A,365,447,366,617,717,759,755,963,2226,3247,4612,4369,4433,4406,3757
+Wyoming : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : geothermal,thousand megawatthours,ELEC.GEN.GEO-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : biomass,thousand megawatthours,ELEC.GEN.BIO-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : other,thousand megawatthours,ELEC.GEN.OTH-WY-99.A,108,77,--,107,65,49,69,67,60,68,62,67,69,74,78
+Wyoming : all solar,,ELEC.GEN.TSN-WY-99.A,,,,,,,,,,,,,,,
+Wyoming : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,2,3
+Wyoming : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Pacific Contiguous,,ELEC.GEN..A,,,,,,,,,,,,,,,
+California,,ELEC.GEN..A,,,,,,,,,,,,,,,
+California : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-CA-99.A,198596,184210,192789,194780,200293,216799,210848,207984,204776,204126,200805,199519,200077,198808,196704
+California : coal,thousand megawatthours,ELEC.GEN.COW-CA-99.A,2233,2328,2326,2238,2135,2235,2298,2280,2050,2100,1982,1375,823,805,298
+California : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-CA-99.A,935,131,396,172,257,272,278,162,137,54,47,134,48,47,85
+California : petroleum coke,thousand megawatthours,ELEC.GEN.PC-CA-99.A,2120,1830,1996,2091,2287,2096,2056,1580,1406,1006,864,156,21,19,0
+California : natural gas,thousand megawatthours,ELEC.GEN.NG-CA-99.A,111932,89624,91432,100222,93354,105691,115700,119992,113463,107522,88974,119668,119523,120426,116140
+California : other gases,thousand megawatthours,ELEC.GEN.OOG-CA-99.A,1130,1240,1759,2066,2280,2022,1818,1685,1623,1695,1667,1484,1406,1333,1549
+California : nuclear,thousand megawatthours,ELEC.GEN.NUC-CA-99.A,33220,34352,35594,30268,36155,31959,35792,32482,31764,32201,36663,18507,17912,16986,18505
+California : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-CA-99.A,25542,31141,36371,34141,39632,48047,27328,24128,27888,33431,42557,26837,23755,16531,13808
+California : other renewables,,ELEC.GEN.AOR-CA-99.A,,,,,,,,,,,,,,,
+California : wind,thousand megawatthours,ELEC.GEN.WND-CA-99.A,3500,3803,3895,4306,4262,4883,5585,5385,5840,6079,7752,9754,12822,12992,12230
+California : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CA-99.A,542,554,534,571,537,495,557,670,647,769,889,1382,3814,9932,14814
+California : geothermal,thousand megawatthours,ELEC.GEN.GEO-CA-99.A,12181,13074,12982,13105,13023,12821,12991,12883,12853,12600,12552,12519,12307,12102,11883
+California : biomass,thousand megawatthours,ELEC.GEN.BIO-CA-99.A,5406,5976,6134,5989,5833,5717,5713,5846,6200,6002,6029,6311,6635,6891,6468
+California : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-CA-99.A,-350,-241,-912,-817,120,96,310,321,153,-171,-89,575,196,-105,113
+California : other,thousand megawatthours,ELEC.GEN.OTH-CA-99.A,204,398,281,429,420,464,421,570,753,839,917,815,816,848,812
+California : all solar,,ELEC.GEN.TSN-CA-99.A,,,,,,,,,,,,,,,
+California : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-CA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,4674,6014
+California : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-CA-99.A,542,554,534,571,537,495,557,670,647,769,889,1382,3814,9932,14814
+Oregon,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Oregon : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-OR-99.A,45052,47099,48966,51381,49325,53341,55078,58718,56691,55127,59695,60933,59896,60120,57867
+Oregon : coal,thousand megawatthours,ELEC.GEN.COW-OR-99.A,4445,3780,4305,3556,3466,2371,4352,4044,3197,4126,3334,2634,3759,3193,2377
+Oregon : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-OR-99.A,102,7,44,63,78,12,14,15,8,3,8,6,6,10,6
+Oregon : petroleum coke,thousand megawatthours,ELEC.GEN.PC-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oregon : natural gas,thousand megawatthours,ELEC.GEN.NG-OR-99.A,10983,7813,10244,13525,13191,11239,14858,17387,16133,15651,8498,11625,14363,12699,16237
+Oregon : other gases,thousand megawatthours,ELEC.GEN.OOG-OR-99.A,--,--,--,--,--,--,--,0,--,--,--,--,--,--,--
+Oregon : nuclear,thousand megawatthours,ELEC.GEN.NUC-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oregon : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-OR-99.A,28645,34413,33250,33081,30948,37850,33587,33805,33034,30542,42315,39410,33098,35262,31254
+Oregon : other renewables,,ELEC.GEN.AOR-OR-99.A,,,,,,,,,,,,,,,
+Oregon : wind,thousand megawatthours,ELEC.GEN.WND-OR-99.A,89,376,444,619,734,931,1247,2575,3470,3920,4775,6343,7456,7555,6632
+Oregon : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OR-99.A,--,--,--,--,--,--,--,--,--,--,0,6,20,24,24
+Oregon : geothermal,thousand megawatthours,ELEC.GEN.GEO-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,26,165,183,179
+Oregon : biomass,thousand megawatthours,ELEC.GEN.BIO-OR-99.A,751,673,639,496,866,898,981,848,803,837,714,832,994,1151,1116
+Oregon : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oregon : other,thousand megawatthours,ELEC.GEN.OTH-OR-99.A,38,38,41,42,40,40,38,44,47,47,51,50,35,43,42
+Oregon : all solar,,ELEC.GEN.TSN-OR-99.A,,,,,,,,,,,,,,,
+Oregon : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,80,92
+Oregon : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-OR-99.A,--,--,--,--,--,--,--,--,--,--,0,6,20,24,24
+Washington,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Washington : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-WA-99.A,83049,102765,100095,102165,101966,108203,106990,110828,104470,103473,115263,116835,114173,116334,109287
+Washington : coal,thousand megawatthours,ELEC.GEN.COW-WA-99.A,9082,8661,11090,10409,10494,6373,8557,8762,7478,8527,5229,3763,6740,6720,5052
+Washington : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-WA-99.A,320,73,67,86,67,38,37,35,54,32,37,27,24,24,22
+Washington : petroleum coke,thousand megawatthours,ELEC.GEN.PC-WA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Washington : natural gas,thousand megawatthours,ELEC.GEN.NG-WA-99.A,9374,4719,7083,8469,8579,7495,7287,9809,11971,10359,4850,5438,11424,11059,13046
+Washington : other gases,thousand megawatthours,ELEC.GEN.OOG-WA-99.A,--,313,303,275,322,349,334,272,245,292,297,405,410,337,395
+Washington : nuclear,thousand megawatthours,ELEC.GEN.NUC-WA-99.A,8250,9048,7615,8982,8242,9328,8109,9270,6634,9241,4806,9334,8461,9497,8161
+Washington : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-WA-99.A,54734,78167,71757,71576,72075,82008,78829,77637,72933,68288,91818,89464,78155,79463,73405
+Washington : other renewables,,ELEC.GEN.AOR-WA-99.A,,,,,,,,,,,,,,,
+Washington : wind,thousand megawatthours,ELEC.GEN.WND-WA-99.A,--,417,604,737,498,1038,2438,3657,3572,4745,6262,6600,7004,7268,7075
+Washington : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WA-99.A,--,--,--,--,--,--,--,0,0,0,1,1,1,1,1
+Washington : geothermal,thousand megawatthours,ELEC.GEN.GEO-WA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Washington : biomass,thousand megawatthours,ELEC.GEN.BIO-WA-99.A,1221,1308,1525,1575,1615,1465,1293,1281,1472,1872,1751,1614,1817,1840,1991
+Washington : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-WA-99.A,--,-5,-3,-10,8,47,45,49,52,53,52,44,7,-5,40
+Washington : other,thousand megawatthours,ELEC.GEN.OTH-WA-99.A,66,64,56,67,65,62,62,56,59,62,160,147,129,131,100
+Washington : all solar,,ELEC.GEN.TSN-WA-99.A,,,,,,,,,,,,,,,
+Washington : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-WA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,36,55
+Washington : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WA-99.A,--,--,--,--,--,--,--,0,0,0,1,1,1,1,1
+Pacific Noncontiguous,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Alaska,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Alaska : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-AK-99.A,6744,6767,6339,6527,6577,6674,6821,6775,6702,6760,6871,6946,6497,6043,6285
+Alaska : coal,thousand megawatthours,ELEC.GEN.COW-AK-99.A,565,575,550,649,624,617,641,618,631,620,656,685,625,558,668
+Alaska : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-AK-99.A,937,962,846,747,759,768,1010,978,1157,937,945,1038,819,446,747
+Alaska : petroleum coke,thousand megawatthours,ELEC.GEN.PC-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : natural gas,thousand megawatthours,ELEC.GEN.NG-AK-99.A,3896,3778,3354,3623,3724,4058,3868,4002,3577,3750,3906,3606,3421,3288,3090
+Alaska : other gases,thousand megawatthours,ELEC.GEN.OOG-AK-99.A,--,--,--,--,--,--,--,--,--,--,3,3,NM,--,--
+Alaska : nuclear,thousand megawatthours,ELEC.GEN.NUC-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-AK-99.A,1346,1439,1583,1498,1464,1224,1291,1172,1324,1433,1345,1575,1435,1539,1569
+Alaska : other renewables,,ELEC.GEN.AOR-AK-99.A,,,,,,,,,,,,,,,
+Alaska : wind,thousand megawatthours,ELEC.GEN.WND-AK-99.A,1,--,--,--,1,1,1,0,7,13,12,37,145,152,160
+Alaska : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : geothermal,thousand megawatthours,ELEC.GEN.GEO-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : biomass,thousand megawatthours,ELEC.GEN.BIO-AK-99.A,--,12,6,9,5,7,10,5,7,6,3,3,52,63,55
+Alaska : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : other,thousand megawatthours,ELEC.GEN.OTH-AK-99.A,--,--,--,--,--,--,--,0,0,0,0,0,0,-2,-2
+Alaska : all solar,,ELEC.GEN.TSN-AK-99.A,,,,,,,,,,,,,,,
+Alaska : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hawaii,,ELEC.GEN..A,,,,,,,,,,,,,,,
+Hawaii : all fuels (utility-scale),thousand megawatthours,ELEC.GEN.ALL-HI-99.A,10633,11663,10976,11410,11523,11559,11533,11376,11011,10836,10723,10469,10267,10204,10120
+Hawaii : coal,thousand megawatthours,ELEC.GEN.COW-HI-99.A,1605,1546,1644,1604,1631,1549,1579,1648,1500,1546,1424,1537,1404,1511,1337
+Hawaii : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-HI-99.A,8224,9467,8503,8945,9068,9054,8914,8670,8289,8087,7924,7483,7223,6926,7023
+Hawaii : petroleum coke,thousand megawatthours,ELEC.GEN.PC-HI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hawaii : natural gas,thousand megawatthours,ELEC.GEN.NG-HI-99.A,0,--,--,--,--,--,--,--,--,--,0,--,--,--,--
+Hawaii : other gases,thousand megawatthours,ELEC.GEN.OOG-HI-99.A,38,41,40,48,41,43,45,39,22,22,35,47,41,62,50
+Hawaii : nuclear,thousand megawatthours,ELEC.GEN.NUC-HI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hawaii : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-HI-99.A,101,95,91,94,96,120,92,84,113,70,93,115,78,94,121
+Hawaii : other renewables,,ELEC.GEN.AOR-HI-99.A,,,,,,,,,,,,,,,
+Hawaii : wind,thousand megawatthours,ELEC.GEN.WND-HI-99.A,2,2,2,7,7,80,238,240,251,261,341,378,503,579,613
+Hawaii : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-HI-99.A,--,--,--,--,--,--,--,0,1,2,4,5,19,39,54
+Hawaii : geothermal,thousand megawatthours,ELEC.GEN.GEO-HI-99.A,207,73,178,213,222,212,230,234,168,201,224,261,275,254,230
+Hawaii : biomass,thousand megawatthours,ELEC.GEN.BIO-HI-99.A,288,297,347,329,310,326,285,302,284,283,313,281,329,334,321
+Hawaii : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-HI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hawaii : other,thousand megawatthours,ELEC.GEN.OTH-HI-99.A,169,143,172,171,149,176,149,159,381,364,366,363,394,405,369
+Hawaii : all solar,,ELEC.GEN.TSN-HI-99.A,,,,,,,,,,,,,,,
+Hawaii : distributed photovoltaic,thousand megawatthours,ELEC.GEN.DPV-HI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,551,632
+Hawaii : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-HI-99.A,--,--,--,--,--,--,--,0,1,2,4,5,19,39,54

@@ -1,0 +1,52 @@
+geography,fuel-type-2001,per-util-scale-2001,fuel-type-2005,per-util-scale-2005,fuel-type-2010,per-util-scale-2010,fuel-type-2015,per-util-scale-2015
+Alabama , coal,0.575994256, coal,0.566354232, coal,0.414390967, natural gas,0.366245401
+Alaska , natural gas,0.577698695, natural gas,0.5662156, natural gas,0.554733728, natural gas,0.491646778
+Arizona , coal,0.445562834, coal,0.395589235, coal,0.390546841, coal,0.31966025
+Arkansas , coal,0.524749958, coal,0.481996025, coal,0.461508197, coal,0.39129574
+California , natural gas,0.563616588, natural gas,0.466087182, natural gas,0.526743286, natural gas,0.590430291
+Colorado , coal,0.766938305, coal,0.716891388, coal,0.681354863, coal,0.602007902
+Connecticut , nuclear,0.505985373, nuclear,0.463845007, nuclear,0.502248876, nuclear,0.464652665
+Delaware , coal,0.494858989, coal,0.593953546, natural gas,0.509061834, natural gas,0.856466069
+District Of Columbia , petroleum liquids,1, petroleum liquids,1, petroleum liquids,1, distributed photovoltaic,0.592592593
+Florida , coal,0.357317552, natural gas,0.379535631, natural gas,0.561485142, natural gas,0.656341481
+Georgia , coal,0.63017994, coal,0.63791085, coal,0.532778008, natural gas,0.39178531
+Hawaii , petroleum liquids,0.773441174, petroleum liquids,0.786947843, petroleum liquids,0.746308601, petroleum liquids,0.693972332
+Idaho , conventional hydroelectric,0.772761314, conventional hydroelectric,0.789099307, conventional hydroelectric,0.761247401, conventional hydroelectric,0.558945554
+Illinois , nuclear,0.515249736, nuclear,0.480439934, nuclear,0.477720609, nuclear,0.50157771
+Indiana , coal,0.946944603, coal,0.942173166, coal,0.897324674, coal,0.752083754
+Iowa , coal,0.852578765, coal,0.775704321, coal,0.717852858, coal,0.526147655
+Kansas , coal,0.709915305, coal,0.751826091, coal,0.678261414, coal,0.540184945
+Kentucky , coal,0.951591943, coal,0.910664268, coal,0.927060213, coal,0.869242555
+Louisiana , natural gas,0.459337384, natural gas,0.476888692, natural gas,0.49904262, natural gas,0.614133863
+Maine , natural gas,0.513825709, natural gas,0.445659096, natural gas,0.49203831, conventional hydroelectric,0.286261818
+Maryland , coal,0.578431373, coal,0.55643538, coal,0.542756897, nuclear,0.402656327
+Massachusetts , natural gas,0.303991891, natural gas,0.428685678, natural gas,0.597640463, natural gas,0.654709219
+Michigan , coal,0.610330276, coal,0.578219043, coal,0.588107682, coal,0.46796687
+Minnesota , coal,0.655750881, coal,0.62147532, coal,0.523253214, coal,0.433432783
+Mississippi , coal,0.359166261, coal,0.369139282, natural gas,0.543597555, natural gas,0.696701566
+Missouri , coal,0.82656358, coal,0.85256749, coal,0.812962421, coal,0.781037781
+Montana , coal,0.703037306, coal,0.637925481, coal,0.624383203, coal,0.546481469
+Nebraska , coal,0.663900279, coal,0.661624027, coal,0.637810538, coal,0.606398716
+Nevada , coal,0.52358602, natural gas,0.468394092, natural gas,0.673988505, natural gas,0.742694701
+New Hampshire , nuclear,0.576650083, nuclear,0.386432366, nuclear,0.491530005, nuclear,0.473820943
+New Jersey , nuclear,0.512764847, nuclear,0.518447564, nuclear,0.498934259, natural gas,0.49557024
+New Mexico , coal,0.844995835, coal,0.852316712, coal,0.70666446, coal,0.625057338
+New York , nuclear,0.280686516, nuclear,0.288950009, natural gas,0.357150158, natural gas,0.410616903
+North Carolina , coal,0.620940287, coal,0.604521037, coal,0.559155411, nuclear,0.327888899
+North Dakota , coal,0.952030858, coal,0.947577741, coal,0.819286126, coal,0.746400409
+Ohio , coal,0.873128453, coal,0.871636428, coal,0.820540676, coal,0.588302856
+Oklahoma , coal,0.626545277, coal,0.529223997, natural gas,0.469778965, natural gas,0.450325733
+Oregon , conventional hydroelectric,0.635820829, conventional hydroelectric,0.627430309, conventional hydroelectric,0.554029786, conventional hydroelectric,0.540100575
+Pennsylvania , coal,0.569242587, coal,0.554507064, coal,0.480383196, nuclear,0.375244673
+Rhode Island , natural gas,0.976406292, natural gas,0.989426731, natural gas,0.979842357, natural gas,0.949128116
+South Carolina , nuclear,0.559337812, nuclear,0.518343657, nuclear,0.499150289, nuclear,0.550656777
+South Dakota , coal,0.488042156, conventional hydroelectric,0.471553443, conventional hydroelectric,0.521293532, conventional hydroelectric,0.503477629
+Tennessee , coal,0.620752011, coal,0.608039787, coal,0.53030395, coal,0.40664761
+Texas , natural gas,0.510255516, natural gas,0.498312195, natural gas,0.45393313, natural gas,0.528495463
+Utah , coal,0.939337312, coal,0.942486571, coal,0.80610192, coal,0.754630623
+Vermont , nuclear,0.76099252, nuclear,0.712261676, nuclear,0.722356495, conventional hydroelectric,0.574672048
+Virginia , coal,0.509682208, coal,0.448741497, nuclear,0.364169613, natural gas,0.394304127
+Washington , conventional hydroelectric,0.659056701, conventional hydroelectric,0.706853265, conventional hydroelectric,0.659959603, conventional hydroelectric,0.671671837
+West Virginia , coal,0.980167895, coal,0.976406127, coal,0.967309906, coal,0.94136524
+Wisconsin , coal,0.702023382, coal,0.674953498, coal,0.624576298, coal,0.560292345
+Wyoming , coal,0.955602206, coal,0.951258586, coal,0.893347742, coal,0.880000817
